@@ -3,5 +3,9 @@ spring:
     console:
       enabled: true
   jpa:
-    generate-ddl: true
     open-in-view: false
+    hibernate:
+      ddl-auto: create
+  data:
+    rest:
+      base-path: /api

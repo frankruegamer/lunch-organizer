@@ -5,6 +5,7 @@ import org.springframework.context.annotation.Configuration;
 
 @Configuration
 @EntityScan(basePackages = {"de.frankruegamer.lunchorganizer.business"})
+//@EnableJpaRepositories(basePackages = {"de.frankruegamer.lunchorganizer.business"})
 public class PersistenceConfig {
 
 }

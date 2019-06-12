@@ -1,0 +1,181 @@
+{
+   "section": {
+      "div": [
+         {
+            "div": [
+               {
+                  "h1": "Beilagen",
+                  "_class": "title"
+               }
+            ],
+            "_class": "headline"
+         },
+         {
+            "div": [
+               {
+                  "div": [
+                     {
+                        "_class": "number"
+                     },
+                     {
+                        "div": [
+                           {
+                              "a": {
+                                 "_data-productid": "1",
+                                 "__text": "2,50 €"
+                              }
+                           }
+                        ],
+                        "_class": "variants"
+                     },
+                     {
+                        "h3": "Pommes Frites",
+                        "_class": "title"
+                     }
+                  ],
+                  "_class": "row even"
+               },
+               {
+                  "div": [
+                     {
+                        "_class": "number"
+                     },
+                     {
+                        "div": [
+                           {
+                              "a": {
+                                 "_data-productid": "2",
+                                 "__text": "2,50 €"
+                              }
+                           }
+                        ],
+                        "_class": "variants"
+                     },
+                     {
+                        "h3": "Bunter Beilagensalat",
+                        "_class": "title"
+                     }
+                  ],
+                  "_class": "row odd"
+               },
+               {
+                  "div": [
+                     {
+                        "_class": "number"
+                     },
+                     {
+                        "div": [
+                           {
+                              "a": {
+                                 "_data-productid": "4",
+                                 "__text": "3,00 €"
+                              }
+                           }
+                        ],
+                        "_class": "variants"
+                     },
+                     {
+                        "h3": "Knoblauchkartoffeln",
+                        "_class": "title"
+                     }
+                  ],
+                  "_class": "row even"
+               },
+               {
+                  "div": [
+                     {
+                        "_class": "number"
+                     },
+                     {
+                        "div": [
+                           {
+                              "a": {
+                                 "_data-productid": "5",
+                                 "__text": "3,00 €"
+                              }
+                           }
+                        ],
+                        "_class": "variants"
+                     },
+                     {
+                        "h3": "Basmatireis",
+                        "_class": "title"
+                     }
+                  ],
+                  "_class": "row odd"
+               },
+               {
+                  "div": [
+                     {
+                        "_class": "number"
+                     },
+                     {
+                        "div": [
+                           {
+                              "a": {
+                                 "_data-productid": "6",
+                                 "__text": "3,00 €"
+                              }
+                           }
+                        ],
+                        "_class": "variants"
+                     },
+                     {
+                        "h3": "Tzatziki",
+                        "_class": "title"
+                     }
+                  ],
+                  "_class": "row even"
+               },
+               {
+                  "div": [
+                     {
+                        "_class": "number"
+                     },
+                     {
+                        "div": [
+                           {
+                              "a": {
+                                 "_data-productid": "7",
+                                 "__text": "3,00 €"
+                              }
+                           }
+                        ],
+                        "_class": "variants"
+                     },
+                     {
+                        "h3": "Gurkensalat",
+                        "_class": "title"
+                     }
+                  ],
+                  "_class": "row odd"
+               },
+               {
+                  "div": [
+                     {
+                        "_class": "number"
+                     },
+                     {
+                        "div": [
+                           {
+                              "a": {
+                                 "_data-productid": "8",
+                                 "__text": "3,00 €"
+                              }
+                           }
+                        ],
+                        "_class": "variants"
+                     },
+                     {
+                        "h3": "Krautsalat",
+                        "_class": "title"
+                     }
+                  ],
+                  "_class": "row even"
+               }
+            ],
+            "_class": "rows"
+         }
+      ]
+   }
+}

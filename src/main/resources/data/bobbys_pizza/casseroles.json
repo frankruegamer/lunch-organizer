@@ -1,0 +1,161 @@
+{
+   "section": {
+      "div": [
+         {
+            "div": [
+               {
+                  "div": [
+                     {
+                        "_class": "number",
+                        "__text": "160"
+                     },
+                     {
+                        "div": [
+                           {
+                              "a": {
+                                 "_data-productid": "14",
+                                 "__text": "8,90 €"
+                              }
+                           }
+                        ],
+                        "_class": "variants"
+                     },
+                     {
+                        "h3": "Broccoli-Auflauf",
+                        "p": "mit Kartoffeln, Sahnesauce, Broccoli, Champignons, Vorderschinken und mit Käse überbacken",
+                        "_class": "title"
+                     }
+                  ],
+                  "_class": "row even"
+               },
+               {
+                  "div": [
+                     {
+                        "_class": "number",
+                        "__text": "161"
+                     },
+                     {
+                        "div": [
+                           {
+                              "a": {
+                                 "_data-productid": "15",
+                                 "__text": "8,90 €"
+                              }
+                           }
+                        ],
+                        "_class": "variants"
+                     },
+                     {
+                        "h3": "Gemüse-Auflauf",
+                        "p": "mit Kartoffeln, Sahnesauce, versch. Gemüse und mit Käse überbacken",
+                        "_class": "title"
+                     }
+                  ],
+                  "_class": "row odd"
+               },
+               {
+                  "div": [
+                     {
+                        "_class": "number",
+                        "__text": "162"
+                     },
+                     {
+                        "div": [
+                           {
+                              "a": {
+                                 "_data-productid": "16",
+                                 "__text": "8,90 €"
+                              }
+                           }
+                        ],
+                        "_class": "variants"
+                     },
+                     {
+                        "h3": "Blumenkohl-Auflauf",
+                        "p": "mit Kartoffeln, Sahnesauce, frischem Blumenkohl, Vorderschinken, Hackfleisch und mit Käse überbacken",
+                        "_class": "title"
+                     }
+                  ],
+                  "_class": "row even"
+               },
+               {
+                  "div": [
+                     {
+                        "_class": "number",
+                        "__text": "163"
+                     },
+                     {
+                        "div": [
+                           {
+                              "a": {
+                                 "_data-productid": "17",
+                                 "__text": "8,90 €"
+                              }
+                           }
+                        ],
+                        "_class": "variants"
+                     },
+                     {
+                        "h3": "Zuccini-Auflauf",
+                        "p": "mit Kartoffeln, Sahnesauce, Zuccini, Tomaten und mit Käse überbacken",
+                        "_class": "title"
+                     }
+                  ],
+                  "_class": "row odd"
+               },
+               {
+                  "div": [
+                     {
+                        "_class": "number",
+                        "__text": "164"
+                     },
+                     {
+                        "div": [
+                           {
+                              "a": {
+                                 "_data-productid": "18",
+                                 "__text": "8,90 €"
+                              }
+                           }
+                        ],
+                        "_class": "variants"
+                     },
+                     {
+                        "h3": "Kartoffel-Hackfleisch-Auflauf",
+                        "p": "mit Kartoffeln, Sahnesauce, Hackfleisch, Schinken und mit Käse überbacken",
+                        "_class": "title"
+                     }
+                  ],
+                  "_class": "row even"
+               },
+               {
+                  "div": [
+                     {
+                        "_class": "number",
+                        "__text": "165"
+                     },
+                     {
+                        "div": [
+                           {
+                              "a": {
+                                 "_data-productid": "19",
+                                 "__text": "8,90 €"
+                              }
+                           }
+                        ],
+                        "_class": "variants"
+                     },
+                     {
+                        "h3": "Hähnchen-Gemüse-Auflauf",
+                        "p": "mit Kartoffeln, Sahnesauce, Hähnchen, versch. Gemüse und mit Käse überbacken",
+                        "_class": "title"
+                     }
+                  ],
+                  "_class": "row odd"
+               }
+            ],
+            "_class": "rows"
+         }
+      ]
+   }
+}

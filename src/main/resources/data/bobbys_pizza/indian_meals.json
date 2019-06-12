@@ -1,0 +1,511 @@
+{
+   "section": {
+      "div": [
+         {
+            "div": [
+               {
+                  "div": [
+                     {
+                        "_class": "number",
+                        "__text": "101"
+                     },
+                     {
+                        "div": [
+                           {
+                              "a": {
+                                 "_data-productid": "34",
+                                 "__text": "9,90 €"
+                              }
+                           }
+                        ],
+                        "_class": "variants"
+                     },
+                     {
+                        "h3": "Murgh Korma",
+                        "p": "Hähnchenbrustfilet mit Joghurt-Sahne-Sauce, Mandeln, Kokosnuss und exotische Gewürze",
+                        "_class": "title"
+                     }
+                  ],
+                  "_class": "row even"
+               },
+               {
+                  "div": [
+                     {
+                        "_class": "number",
+                        "__text": "102"
+                     },
+                     {
+                        "div": [
+                           {
+                              "a": {
+                                 "_data-productid": "35",
+                                 "__text": "9,90 €"
+                              }
+                           }
+                        ],
+                        "_class": "variants"
+                     },
+                     {
+                        "h3": "Murgh Vindola",
+                        "p": "Hähnchenbrustfilet, Kartoffeln und eine pikante Curry-Sauce",
+                        "_class": "title"
+                     }
+                  ],
+                  "_class": "row odd"
+               },
+               {
+                  "div": [
+                     {
+                        "_class": "number",
+                        "__text": "103"
+                     },
+                     {
+                        "div": [
+                           {
+                              "a": {
+                                 "_data-productid": "36",
+                                 "__text": "9,90 €"
+                              }
+                           }
+                        ],
+                        "_class": "variants"
+                     },
+                     {
+                        "h3": "Palak Murgh",
+                        "p": "Hähnchenbrustfilet und Spinat auf nordindische Art zubereitet",
+                        "_class": "title"
+                     }
+                  ],
+                  "_class": "row even"
+               },
+               {
+                  "div": [
+                     {
+                        "_class": "number",
+                        "__text": "104"
+                     },
+                     {
+                        "div": [
+                           {
+                              "a": {
+                                 "_data-productid": "37",
+                                 "__text": "9,90 €"
+                              }
+                           }
+                        ],
+                        "_class": "variants"
+                     },
+                     {
+                        "h3": "Butter Murgh",
+                        "p": "Hähnchenbrustfilet mit einer leichten Butter-Sauce",
+                        "_class": "title"
+                     }
+                  ],
+                  "_class": "row odd"
+               },
+               {
+                  "div": [
+                     {
+                        "_class": "number",
+                        "__text": "105"
+                     },
+                     {
+                        "div": [
+                           {
+                              "a": {
+                                 "_data-productid": "38",
+                                 "__text": "9,90 €"
+                              }
+                           }
+                        ],
+                        "_class": "variants"
+                     },
+                     {
+                        "h3": "Murgh-Chili-Masala",
+                        "p": "Hähnchenbrustfilet, Ingwer, Knoblauch, Zwiebeln, Paprika und Chilisauce",
+                        "_class": "title"
+                     }
+                  ],
+                  "_class": "row even"
+               },
+               {
+                  "div": [
+                     {
+                        "_class": "number",
+                        "__text": "106"
+                     },
+                     {
+                        "div": [
+                           {
+                              "a": {
+                                 "_data-productid": "39",
+                                 "__text": "9,90 €"
+                              }
+                           }
+                        ],
+                        "_class": "variants"
+                     },
+                     {
+                        "h3": "Mango-Murgh",
+                        "p": "Hähnchenbrustfilet mit einer traditionellen Mango-Sauce",
+                        "_class": "title"
+                     }
+                  ],
+                  "_class": "row odd"
+               },
+               {
+                  "div": [
+                     {
+                        "_class": "number",
+                        "__text": "107"
+                     },
+                     {
+                        "div": [
+                           {
+                              "a": {
+                                 "_data-productid": "40",
+                                 "__text": "9,90 €"
+                              }
+                           }
+                        ],
+                        "_class": "variants"
+                     },
+                     {
+                        "h3": "Murgh Sabzi",
+                        "p": "Hähnchenbrustfilet mit verschiedenem Gemüse und Curry-Sauce",
+                        "_class": "title"
+                     }
+                  ],
+                  "_class": "row even"
+               },
+               {
+                  "div": [
+                     {
+                        "_class": "number",
+                        "__text": "110"
+                     },
+                     {
+                        "div": [
+                           {
+                              "a": {
+                                 "_data-productid": "41",
+                                 "__text": "10,90 €"
+                              }
+                           }
+                        ],
+                        "_class": "variants"
+                     },
+                     {
+                        "h3": "Gosht Karahi",
+                        "p": "Lammfleisch mit Ingwer, Knoblauch und Chilisauce, scharf",
+                        "_class": "title"
+                     }
+                  ],
+                  "_class": "row even"
+               },
+               {
+                  "div": [
+                     {
+                        "_class": "number",
+                        "__text": "111"
+                     },
+                     {
+                        "div": [
+                           {
+                              "a": {
+                                 "_data-productid": "42",
+                                 "__text": "10,90 €"
+                              }
+                           }
+                        ],
+                        "_class": "variants"
+                     },
+                     {
+                        "h3": "Gosht Korma",
+                        "p": "Lammfleisch mit Safran-Mandel-Sauce",
+                        "_class": "title"
+                     }
+                  ],
+                  "_class": "row odd"
+               },
+               {
+                  "div": [
+                     {
+                        "_class": "number",
+                        "__text": "112"
+                     },
+                     {
+                        "div": [
+                           {
+                              "a": {
+                                 "_data-productid": "43",
+                                 "__text": "10,90 €"
+                              }
+                           }
+                        ],
+                        "_class": "variants"
+                     },
+                     {
+                        "h3": "Palak Gosht",
+                        "p": "Lammfleisch mit Spinat auf nordindische Art",
+                        "_class": "title"
+                     }
+                  ],
+                  "_class": "row even"
+               },
+               {
+                  "div": [
+                     {
+                        "_class": "number",
+                        "__text": "113"
+                     },
+                     {
+                        "div": [
+                           {
+                              "a": {
+                                 "_data-productid": "44",
+                                 "__text": "10,90 €"
+                              }
+                           }
+                        ],
+                        "_class": "variants"
+                     },
+                     {
+                        "h3": "Gosht Vindalo",
+                        "p": "Lammfleisch mit Kartoffeln und eine pikante Sauce",
+                        "_class": "title"
+                     }
+                  ],
+                  "_class": "row odd"
+               },
+               {
+                  "div": [
+                     {
+                        "_class": "number",
+                        "__text": "114"
+                     },
+                     {
+                        "div": [
+                           {
+                              "a": {
+                                 "_data-productid": "45",
+                                 "__text": "10,90 €"
+                              }
+                           }
+                        ],
+                        "_class": "variants"
+                     },
+                     {
+                        "h3": "Gosht Chili-Masala",
+                        "p": "Lammfleisch mit Zwiebeln, Paprika, Ingwer, Knoblauch und einer scharfen Chili-Sauce",
+                        "_class": "title"
+                     }
+                  ],
+                  "_class": "row even"
+               },
+               {
+                  "div": [
+                     {
+                        "_class": "number",
+                        "__text": "115"
+                     },
+                     {
+                        "div": [
+                           {
+                              "a": {
+                                 "_data-productid": "46",
+                                 "__text": "10,90 €"
+                              }
+                           }
+                        ],
+                        "_class": "variants"
+                     },
+                     {
+                        "h3": "Gosht Jalfrazie",
+                        "p": "Lammfleisch mit verschiedenem Gemüse und Zitronensaft",
+                        "_class": "title"
+                     }
+                  ],
+                  "_class": "row odd"
+               },
+               {
+                  "div": [
+                     {
+                        "_class": "number",
+                        "__text": "120"
+                     },
+                     {
+                        "div": [
+                           {
+                              "a": {
+                                 "_data-productid": "47",
+                                 "__text": "8,50 €"
+                              }
+                           }
+                        ],
+                        "_class": "variants"
+                     },
+                     {
+                        "h3": "Channa Masala",
+                        "p": "Kichererbsen, Tomaten, Ingwer und Knoblauch mit indischen Gewürzen, gebraten",
+                        "_class": "title"
+                     }
+                  ],
+                  "_class": "row even"
+               },
+               {
+                  "div": [
+                     {
+                        "_class": "number",
+                        "__text": "121"
+                     },
+                     {
+                        "div": [
+                           {
+                              "a": {
+                                 "_data-productid": "48",
+                                 "__text": "8,50 €"
+                              }
+                           }
+                        ],
+                        "_class": "variants"
+                     },
+                     {
+                        "h3": "Sag Paneer",
+                        "p": "Spinat mit Frischkäse, Ingwer, Knoblauch auf nordindische Art gebraten",
+                        "_class": "title"
+                     }
+                  ],
+                  "_class": "row odd"
+               },
+               {
+                  "div": [
+                     {
+                        "_class": "number",
+                        "__text": "122"
+                     },
+                     {
+                        "div": [
+                           {
+                              "a": {
+                                 "_data-productid": "49",
+                                 "__text": "8,50 €"
+                              }
+                           }
+                        ],
+                        "_class": "variants"
+                     },
+                     {
+                        "h3": "Matter Paneer",
+                        "p": "grüne Erbsen mit Frischkäse, Tomaten und einer milden Curry-Sauce",
+                        "_class": "title"
+                     }
+                  ],
+                  "_class": "row even"
+               },
+               {
+                  "div": [
+                     {
+                        "_class": "number",
+                        "__text": "123"
+                     },
+                     {
+                        "div": [
+                           {
+                              "a": {
+                                 "_data-productid": "50",
+                                 "__text": "8,50 €"
+                              }
+                           }
+                        ],
+                        "_class": "variants"
+                     },
+                     {
+                        "h3": "Mixed Vegetable",
+                        "p": "mit verschiedenem Gemüse, auf nordindische Art zubereitet",
+                        "_class": "title"
+                     }
+                  ],
+                  "_class": "row odd"
+               },
+               {
+                  "div": [
+                     {
+                        "_class": "number",
+                        "__text": "130"
+                     },
+                     {
+                        "div": [
+                           {
+                              "a": {
+                                 "_data-productid": "51",
+                                 "__text": "8,90 €"
+                              }
+                           }
+                        ],
+                        "_class": "variants"
+                     },
+                     {
+                        "h3": "Murgh Biryani",
+                        "p": "Hähnchenbrustfilet, Basmatireis mit Mandeln und Rosinen",
+                        "_class": "title"
+                     }
+                  ],
+                  "_class": "row even"
+               },
+               {
+                  "div": [
+                     {
+                        "_class": "number",
+                        "__text": "131"
+                     },
+                     {
+                        "div": [
+                           {
+                              "a": {
+                                 "_data-productid": "52",
+                                 "__text": "8,90 €"
+                              }
+                           }
+                        ],
+                        "_class": "variants"
+                     },
+                     {
+                        "h3": "Gosht Biryani",
+                        "p": "Lammfleisch, Basmatireis mit Mandeln und Rosinen",
+                        "_class": "title"
+                     }
+                  ],
+                  "_class": "row odd"
+               },
+               {
+                  "div": [
+                     {
+                        "_class": "number",
+                        "__text": "132"
+                     },
+                     {
+                        "div": [
+                           {
+                              "a": {
+                                 "_data-productid": "53",
+                                 "__text": "8,90 €"
+                              }
+                           }
+                        ],
+                        "_class": "variants"
+                     },
+                     {
+                        "h3": "Sabzi Biryani",
+                        "p": "verschiedene Gemüse, Basmatireis und Rosinen",
+                        "_class": "title"
+                     }
+                  ],
+                  "_class": "row even"
+               }
+            ],
+            "_class": "rows"
+         }
+      ]
+   }
+}

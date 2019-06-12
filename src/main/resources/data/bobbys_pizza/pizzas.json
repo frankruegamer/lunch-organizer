@@ -1,0 +1,3745 @@
+[
+  {
+    "div": [
+      {
+        "_class": "number",
+        "__text": "1"
+      },
+      {
+        "div": [
+          {
+            "span": [
+              {
+                "_class": "name",
+                "__text": "Klein"
+              },
+              {
+                "_class": "desc",
+                "__text": "ca. 28cm"
+              }
+            ],
+            "a": {
+              "_data-productid": "67",
+              "_data-packingunitid": "1",
+              "__text": "6,00 €"
+            }
+          },
+          {
+            "span": [
+              {
+                "_class": "name",
+                "__text": "Groß"
+              },
+              {
+                "_class": "desc",
+                "__text": "ca. 32cm"
+              }
+            ],
+            "a": {
+              "_data-productid": "67",
+              "_data-packingunitid": "2",
+              "__text": "7,50 €"
+            }
+          },
+          {
+            "span": [
+              {
+                "_class": "name",
+                "__text": "Family"
+              },
+              {
+                "_class": "desc",
+                "__text": "45x32cm"
+              }
+            ],
+            "a": {
+              "_data-productid": "67",
+              "_data-packingunitid": "3",
+              "__text": "14,00 €"
+            }
+          },
+          {
+            "span": [
+              {
+                "_class": "name",
+                "__text": "Party"
+              },
+              {
+                "_class": "desc",
+                "__text": "60x40cm"
+              }
+            ],
+            "a": {
+              "_data-productid": "67",
+              "_data-packingunitid": "4",
+              "__text": "17,50 €"
+            }
+          }
+        ],
+        "_class": "variants"
+      },
+      {
+        "h3": "Pizza Margherita",
+        "p": "mit Tomaten und Käse",
+        "_class": "title"
+      }
+    ]
+  },
+  {
+    "div": [
+      {
+        "_class": "number",
+        "__text": "2"
+      },
+      {
+        "div": [
+          {
+            "span": [
+              {
+                "_class": "name",
+                "__text": "Klein"
+              },
+              {
+                "_class": "desc",
+                "__text": "ca. 28cm"
+              }
+            ],
+            "a": {
+              "_data-productid": "68",
+              "_data-packingunitid": "1",
+              "__text": "6,50 €"
+            }
+          },
+          {
+            "span": [
+              {
+                "_class": "name",
+                "__text": "Groß"
+              },
+              {
+                "_class": "desc",
+                "__text": "ca. 32cm"
+              }
+            ],
+            "a": {
+              "_data-productid": "68",
+              "_data-packingunitid": "2",
+              "__text": "8,00 €"
+            }
+          },
+          {
+            "span": [
+              {
+                "_class": "name",
+                "__text": "Family"
+              },
+              {
+                "_class": "desc",
+                "__text": "45x32cm"
+              }
+            ],
+            "a": {
+              "_data-productid": "68",
+              "_data-packingunitid": "3",
+              "__text": "15,50 €"
+            }
+          },
+          {
+            "span": [
+              {
+                "_class": "name",
+                "__text": "Party"
+              },
+              {
+                "_class": "desc",
+                "__text": "60x40cm"
+              }
+            ],
+            "a": {
+              "_data-productid": "68",
+              "_data-packingunitid": "4",
+              "__text": "19,00 €"
+            }
+          }
+        ],
+        "_class": "variants"
+      },
+      {
+        "h3": {
+          "span": [
+            {
+              "_class": "additives",
+              "__text": "1, 4, 5"
+            }
+          ],
+          "__text": "Pizza Vorderschinken"
+        },
+        "_class": "title"
+      }
+    ]
+  },
+  {
+    "div": [
+      {
+        "_class": "number",
+        "__text": "3"
+      },
+      {
+        "div": [
+          {
+            "span": [
+              {
+                "_class": "name",
+                "__text": "Klein"
+              },
+              {
+                "_class": "desc",
+                "__text": "ca. 28cm"
+              }
+            ],
+            "a": {
+              "_data-productid": "69",
+              "_data-packingunitid": "1",
+              "__text": "6,50 €"
+            }
+          },
+          {
+            "span": [
+              {
+                "_class": "name",
+                "__text": "Groß"
+              },
+              {
+                "_class": "desc",
+                "__text": "ca. 32cm"
+              }
+            ],
+            "a": {
+              "_data-productid": "69",
+              "_data-packingunitid": "2",
+              "__text": "8,00 €"
+            }
+          },
+          {
+            "span": [
+              {
+                "_class": "name",
+                "__text": "Family"
+              },
+              {
+                "_class": "desc",
+                "__text": "45x32cm"
+              }
+            ],
+            "a": {
+              "_data-productid": "69",
+              "_data-packingunitid": "3",
+              "__text": "15,50 €"
+            }
+          },
+          {
+            "span": [
+              {
+                "_class": "name",
+                "__text": "Party"
+              },
+              {
+                "_class": "desc",
+                "__text": "60x40cm"
+              }
+            ],
+            "a": {
+              "_data-productid": "69",
+              "_data-packingunitid": "4",
+              "__text": "19,00 €"
+            }
+          }
+        ],
+        "_class": "variants"
+      },
+      {
+        "h3": {
+          "span": [
+            {
+              "_class": "additives",
+              "__text": "1, 4, 5"
+            }
+          ],
+          "__text": "Pizza Salami"
+        },
+        "_class": "title"
+      }
+    ]
+  },
+  {
+    "div": [
+      {
+        "_class": "number",
+        "__text": "4"
+      },
+      {
+        "div": [
+          {
+            "span": [
+              {
+                "_class": "name",
+                "__text": "Klein"
+              },
+              {
+                "_class": "desc",
+                "__text": "ca. 28cm"
+              }
+            ],
+            "a": {
+              "_data-productid": "70",
+              "_data-packingunitid": "1",
+              "__text": "6,50 €"
+            }
+          },
+          {
+            "span": [
+              {
+                "_class": "name",
+                "__text": "Groß"
+              },
+              {
+                "_class": "desc",
+                "__text": "ca. 32cm"
+              }
+            ],
+            "a": {
+              "_data-productid": "70",
+              "_data-packingunitid": "2",
+              "__text": "8,00 €"
+            }
+          },
+          {
+            "span": [
+              {
+                "_class": "name",
+                "__text": "Family"
+              },
+              {
+                "_class": "desc",
+                "__text": "45x32cm"
+              }
+            ],
+            "a": {
+              "_data-productid": "70",
+              "_data-packingunitid": "3",
+              "__text": "15,50 €"
+            }
+          },
+          {
+            "span": [
+              {
+                "_class": "name",
+                "__text": "Party"
+              },
+              {
+                "_class": "desc",
+                "__text": "60x40cm"
+              }
+            ],
+            "a": {
+              "_data-productid": "70",
+              "_data-packingunitid": "4",
+              "__text": "19,00 €"
+            }
+          }
+        ],
+        "_class": "variants"
+      },
+      {
+        "h3": {
+          "span": [
+            {
+              "_class": "additives",
+              "__text": "1, 4, 5"
+            }
+          ],
+          "__text": "Pizza Peperoniwurst"
+        },
+        "_class": "title"
+      }
+    ]
+  },
+  {
+    "div": [
+      {
+        "_class": "number",
+        "__text": "5"
+      },
+      {
+        "div": [
+          {
+            "span": [
+              {
+                "_class": "name",
+                "__text": "Klein"
+              },
+              {
+                "_class": "desc",
+                "__text": "ca. 28cm"
+              }
+            ],
+            "a": {
+              "_data-productid": "71",
+              "_data-packingunitid": "1",
+              "__text": "6,50 €"
+            }
+          },
+          {
+            "span": [
+              {
+                "_class": "name",
+                "__text": "Groß"
+              },
+              {
+                "_class": "desc",
+                "__text": "ca. 32cm"
+              }
+            ],
+            "a": {
+              "_data-productid": "71",
+              "_data-packingunitid": "2",
+              "__text": "8,00 €"
+            }
+          },
+          {
+            "span": [
+              {
+                "_class": "name",
+                "__text": "Family"
+              },
+              {
+                "_class": "desc",
+                "__text": "45x32cm"
+              }
+            ],
+            "a": {
+              "_data-productid": "71",
+              "_data-packingunitid": "3",
+              "__text": "15,50 €"
+            }
+          },
+          {
+            "span": [
+              {
+                "_class": "name",
+                "__text": "Party"
+              },
+              {
+                "_class": "desc",
+                "__text": "60x40cm"
+              }
+            ],
+            "a": {
+              "_data-productid": "71",
+              "_data-packingunitid": "4",
+              "__text": "19,00 €"
+            }
+          }
+        ],
+        "_class": "variants"
+      },
+      {
+        "h3": "Pizza Champignons",
+        "_class": "title"
+      }
+    ]
+  },
+  {
+    "div": [
+      {
+        "_class": "number",
+        "__text": "6"
+      },
+      {
+        "div": [
+          {
+            "span": [
+              {
+                "_class": "name",
+                "__text": "Klein"
+              },
+              {
+                "_class": "desc",
+                "__text": "ca. 28cm"
+              }
+            ],
+            "a": {
+              "_data-productid": "72",
+              "_data-packingunitid": "1",
+              "__text": "6,50 €"
+            }
+          },
+          {
+            "span": [
+              {
+                "_class": "name",
+                "__text": "Groß"
+              },
+              {
+                "_class": "desc",
+                "__text": "ca. 32cm"
+              }
+            ],
+            "a": {
+              "_data-productid": "72",
+              "_data-packingunitid": "2",
+              "__text": "8,00 €"
+            }
+          },
+          {
+            "span": [
+              {
+                "_class": "name",
+                "__text": "Family"
+              },
+              {
+                "_class": "desc",
+                "__text": "45x32cm"
+              }
+            ],
+            "a": {
+              "_data-productid": "72",
+              "_data-packingunitid": "3",
+              "__text": "15,50 €"
+            }
+          },
+          {
+            "span": [
+              {
+                "_class": "name",
+                "__text": "Party"
+              },
+              {
+                "_class": "desc",
+                "__text": "60x40cm"
+              }
+            ],
+            "a": {
+              "_data-productid": "72",
+              "_data-packingunitid": "4",
+              "__text": "19,00 €"
+            }
+          }
+        ],
+        "_class": "variants"
+      },
+      {
+        "h3": "Pizza Paprika",
+        "_class": "title"
+      }
+    ]
+  },
+  {
+    "div": [
+      {
+        "_class": "number",
+        "__text": "7"
+      },
+      {
+        "div": [
+          {
+            "span": [
+              {
+                "_class": "name",
+                "__text": "Klein"
+              },
+              {
+                "_class": "desc",
+                "__text": "ca. 28cm"
+              }
+            ],
+            "a": {
+              "_data-productid": "73",
+              "_data-packingunitid": "1",
+              "__text": "6,50 €"
+            }
+          },
+          {
+            "span": [
+              {
+                "_class": "name",
+                "__text": "Groß"
+              },
+              {
+                "_class": "desc",
+                "__text": "ca. 32cm"
+              }
+            ],
+            "a": {
+              "_data-productid": "73",
+              "_data-packingunitid": "2",
+              "__text": "8,00 €"
+            }
+          },
+          {
+            "span": [
+              {
+                "_class": "name",
+                "__text": "Family"
+              },
+              {
+                "_class": "desc",
+                "__text": "45x32cm"
+              }
+            ],
+            "a": {
+              "_data-productid": "73",
+              "_data-packingunitid": "3",
+              "__text": "15,50 €"
+            }
+          },
+          {
+            "span": [
+              {
+                "_class": "name",
+                "__text": "Party"
+              },
+              {
+                "_class": "desc",
+                "__text": "60x40cm"
+              }
+            ],
+            "a": {
+              "_data-productid": "73",
+              "_data-packingunitid": "4",
+              "__text": "19,00 €"
+            }
+          }
+        ],
+        "_class": "variants"
+      },
+      {
+        "h3": "Pizza Broccoli",
+        "_class": "title"
+      }
+    ]
+  },
+  {
+    "div": [
+      {
+        "_class": "number",
+        "__text": "8"
+      },
+      {
+        "div": [
+          {
+            "span": [
+              {
+                "_class": "name",
+                "__text": "Klein"
+              },
+              {
+                "_class": "desc",
+                "__text": "ca. 28cm"
+              }
+            ],
+            "a": {
+              "_data-productid": "74",
+              "_data-packingunitid": "1",
+              "__text": "6,50 €"
+            }
+          },
+          {
+            "span": [
+              {
+                "_class": "name",
+                "__text": "Groß"
+              },
+              {
+                "_class": "desc",
+                "__text": "ca. 32cm"
+              }
+            ],
+            "a": {
+              "_data-productid": "74",
+              "_data-packingunitid": "2",
+              "__text": "8,00 €"
+            }
+          },
+          {
+            "span": [
+              {
+                "_class": "name",
+                "__text": "Family"
+              },
+              {
+                "_class": "desc",
+                "__text": "45x32cm"
+              }
+            ],
+            "a": {
+              "_data-productid": "74",
+              "_data-packingunitid": "3",
+              "__text": "15,50 €"
+            }
+          },
+          {
+            "span": [
+              {
+                "_class": "name",
+                "__text": "Party"
+              },
+              {
+                "_class": "desc",
+                "__text": "60x40cm"
+              }
+            ],
+            "a": {
+              "_data-productid": "74",
+              "_data-packingunitid": "4",
+              "__text": "19,00 €"
+            }
+          }
+        ],
+        "_class": "variants"
+      },
+      {
+        "h3": "Pizza Artischocken",
+        "_class": "title"
+      }
+    ]
+  },
+  {
+    "div": [
+      {
+        "_class": "number",
+        "__text": "9"
+      },
+      {
+        "div": [
+          {
+            "span": [
+              {
+                "_class": "name",
+                "__text": "Klein"
+              },
+              {
+                "_class": "desc",
+                "__text": "ca. 28cm"
+              }
+            ],
+            "a": {
+              "_data-productid": "75",
+              "_data-packingunitid": "1",
+              "__text": "7,00 €"
+            }
+          },
+          {
+            "span": [
+              {
+                "_class": "name",
+                "__text": "Groß"
+              },
+              {
+                "_class": "desc",
+                "__text": "ca. 32cm"
+              }
+            ],
+            "a": {
+              "_data-productid": "75",
+              "_data-packingunitid": "2",
+              "__text": "8,50 €"
+            }
+          },
+          {
+            "span": [
+              {
+                "_class": "name",
+                "__text": "Family"
+              },
+              {
+                "_class": "desc",
+                "__text": "45x32cm"
+              }
+            ],
+            "a": {
+              "_data-productid": "75",
+              "_data-packingunitid": "3",
+              "__text": "16,50 €"
+            }
+          },
+          {
+            "span": [
+              {
+                "_class": "name",
+                "__text": "Party"
+              },
+              {
+                "_class": "desc",
+                "__text": "60x40cm"
+              }
+            ],
+            "a": {
+              "_data-productid": "75",
+              "_data-packingunitid": "4",
+              "__text": "20,00 €"
+            }
+          }
+        ],
+        "_class": "variants"
+      },
+      {
+        "h3": "Pizza Spinat mit Hirtenkäse",
+        "_class": "title"
+      }
+    ]
+  },
+  {
+    "div": [
+      {
+        "_class": "number",
+        "__text": "10"
+      },
+      {
+        "div": [
+          {
+            "span": [
+              {
+                "_class": "name",
+                "__text": "Klein"
+              },
+              {
+                "_class": "desc",
+                "__text": "ca. 28cm"
+              }
+            ],
+            "a": {
+              "_data-productid": "76",
+              "_data-packingunitid": "1",
+              "__text": "7,00 €"
+            }
+          },
+          {
+            "span": [
+              {
+                "_class": "name",
+                "__text": "Groß"
+              },
+              {
+                "_class": "desc",
+                "__text": "ca. 32cm"
+              }
+            ],
+            "a": {
+              "_data-productid": "76",
+              "_data-packingunitid": "2",
+              "__text": "8,50 €"
+            }
+          },
+          {
+            "span": [
+              {
+                "_class": "name",
+                "__text": "Family"
+              },
+              {
+                "_class": "desc",
+                "__text": "45x32cm"
+              }
+            ],
+            "a": {
+              "_data-productid": "76",
+              "_data-packingunitid": "3",
+              "__text": "16,50 €"
+            }
+          },
+          {
+            "span": [
+              {
+                "_class": "name",
+                "__text": "Party"
+              },
+              {
+                "_class": "desc",
+                "__text": "60x40cm"
+              }
+            ],
+            "a": {
+              "_data-productid": "76",
+              "_data-packingunitid": "4",
+              "__text": "20,00 €"
+            }
+          }
+        ],
+        "_class": "variants"
+      },
+      {
+        "h3": {
+          "span": [
+            {
+              "_class": "additives",
+              "__text": "1, 4, 5"
+            }
+          ],
+          "__text": "Pizza Leo"
+        },
+        "p": "mit Vorderschinken und Peperoniwurst",
+        "_class": "title"
+      }
+    ]
+  },
+  {
+    "div": [
+      {
+        "_class": "number",
+        "__text": "11"
+      },
+      {
+        "div": [
+          {
+            "span": [
+              {
+                "_class": "name",
+                "__text": "Klein"
+              },
+              {
+                "_class": "desc",
+                "__text": "ca. 28cm"
+              }
+            ],
+            "a": {
+              "_data-productid": "77",
+              "_data-packingunitid": "1",
+              "__text": "7,00 €"
+            }
+          },
+          {
+            "span": [
+              {
+                "_class": "name",
+                "__text": "Groß"
+              },
+              {
+                "_class": "desc",
+                "__text": "ca. 32cm"
+              }
+            ],
+            "a": {
+              "_data-productid": "77",
+              "_data-packingunitid": "2",
+              "__text": "8,50 €"
+            }
+          },
+          {
+            "span": [
+              {
+                "_class": "name",
+                "__text": "Family"
+              },
+              {
+                "_class": "desc",
+                "__text": "45x32cm"
+              }
+            ],
+            "a": {
+              "_data-productid": "77",
+              "_data-packingunitid": "3",
+              "__text": "16,50 €"
+            }
+          },
+          {
+            "span": [
+              {
+                "_class": "name",
+                "__text": "Party"
+              },
+              {
+                "_class": "desc",
+                "__text": "60x40cm"
+              }
+            ],
+            "a": {
+              "_data-productid": "77",
+              "_data-packingunitid": "4",
+              "__text": "20,00 €"
+            }
+          }
+        ],
+        "_class": "variants"
+      },
+      {
+        "h3": {
+          "span": [
+            {
+              "_class": "additives",
+              "__text": "1, 4, 5"
+            }
+          ],
+          "__text": "Pizza Roma"
+        },
+        "p": "mit Vorderschinken und Salami",
+        "_class": "title"
+      }
+    ]
+  },
+  {
+    "div": [
+      {
+        "_class": "number",
+        "__text": "12"
+      },
+      {
+        "div": [
+          {
+            "span": [
+              {
+                "_class": "name",
+                "__text": "Klein"
+              },
+              {
+                "_class": "desc",
+                "__text": "ca. 28cm"
+              }
+            ],
+            "a": {
+              "_data-productid": "78",
+              "_data-packingunitid": "1",
+              "__text": "7,00 €"
+            }
+          },
+          {
+            "span": [
+              {
+                "_class": "name",
+                "__text": "Groß"
+              },
+              {
+                "_class": "desc",
+                "__text": "ca. 32cm"
+              }
+            ],
+            "a": {
+              "_data-productid": "78",
+              "_data-packingunitid": "2",
+              "__text": "8,50 €"
+            }
+          },
+          {
+            "span": [
+              {
+                "_class": "name",
+                "__text": "Family"
+              },
+              {
+                "_class": "desc",
+                "__text": "45x32cm"
+              }
+            ],
+            "a": {
+              "_data-productid": "78",
+              "_data-packingunitid": "3",
+              "__text": "16,50 €"
+            }
+          },
+          {
+            "span": [
+              {
+                "_class": "name",
+                "__text": "Party"
+              },
+              {
+                "_class": "desc",
+                "__text": "60x40cm"
+              }
+            ],
+            "a": {
+              "_data-productid": "78",
+              "_data-packingunitid": "4",
+              "__text": "20,00 €"
+            }
+          }
+        ],
+        "_class": "variants"
+      },
+      {
+        "h3": {
+          "span": [
+            {
+              "_class": "additives",
+              "__text": "1, 4, 5"
+            }
+          ],
+          "__text": "Pizza Salame Funghi"
+        },
+        "p": "mit Salami, Champignons",
+        "_class": "title"
+      }
+    ]
+  },
+  {
+    "div": [
+      {
+        "_class": "number",
+        "__text": "13"
+      },
+      {
+        "div": [
+          {
+            "span": [
+              {
+                "_class": "name",
+                "__text": "Klein"
+              },
+              {
+                "_class": "desc",
+                "__text": "ca. 28cm"
+              }
+            ],
+            "a": {
+              "_data-productid": "79",
+              "_data-packingunitid": "1",
+              "__text": "7,00 €"
+            }
+          },
+          {
+            "span": [
+              {
+                "_class": "name",
+                "__text": "Groß"
+              },
+              {
+                "_class": "desc",
+                "__text": "ca. 32cm"
+              }
+            ],
+            "a": {
+              "_data-productid": "79",
+              "_data-packingunitid": "2",
+              "__text": "8,50 €"
+            }
+          },
+          {
+            "span": [
+              {
+                "_class": "name",
+                "__text": "Family"
+              },
+              {
+                "_class": "desc",
+                "__text": "45x32cm"
+              }
+            ],
+            "a": {
+              "_data-productid": "79",
+              "_data-packingunitid": "3",
+              "__text": "16,50 €"
+            }
+          },
+          {
+            "span": [
+              {
+                "_class": "name",
+                "__text": "Party"
+              },
+              {
+                "_class": "desc",
+                "__text": "60x40cm"
+              }
+            ],
+            "a": {
+              "_data-productid": "79",
+              "_data-packingunitid": "4",
+              "__text": "20,00 €"
+            }
+          }
+        ],
+        "_class": "variants"
+      },
+      {
+        "h3": {
+          "span": [
+            {
+              "_class": "additives",
+              "__text": "1, 4, 5"
+            }
+          ],
+          "__text": "Pizza Peperoniwurst Funghi"
+        },
+        "p": "mit Peperoniwurst und Champignons",
+        "_class": "title"
+      }
+    ]
+  },
+  {
+    "div": [
+      {
+        "_class": "number",
+        "__text": "14"
+      },
+      {
+        "div": [
+          {
+            "span": [
+              {
+                "_class": "name",
+                "__text": "Klein"
+              },
+              {
+                "_class": "desc",
+                "__text": "ca. 28cm"
+              }
+            ],
+            "a": {
+              "_data-productid": "80",
+              "_data-packingunitid": "1",
+              "__text": "7,00 €"
+            }
+          },
+          {
+            "span": [
+              {
+                "_class": "name",
+                "__text": "Groß"
+              },
+              {
+                "_class": "desc",
+                "__text": "ca. 32cm"
+              }
+            ],
+            "a": {
+              "_data-productid": "80",
+              "_data-packingunitid": "2",
+              "__text": "8,50 €"
+            }
+          },
+          {
+            "span": [
+              {
+                "_class": "name",
+                "__text": "Family"
+              },
+              {
+                "_class": "desc",
+                "__text": "45x32cm"
+              }
+            ],
+            "a": {
+              "_data-productid": "80",
+              "_data-packingunitid": "3",
+              "__text": "16,50 €"
+            }
+          },
+          {
+            "span": [
+              {
+                "_class": "name",
+                "__text": "Party"
+              },
+              {
+                "_class": "desc",
+                "__text": "60x40cm"
+              }
+            ],
+            "a": {
+              "_data-productid": "80",
+              "_data-packingunitid": "4",
+              "__text": "20,00 €"
+            }
+          }
+        ],
+        "_class": "variants"
+      },
+      {
+        "h3": {
+          "span": [
+            {
+              "_class": "additives",
+              "__text": "1, 4, 5"
+            }
+          ],
+          "__text": "Pizza Prosciuto Funghi"
+        },
+        "p": "mit Vorderschinken und Champignons",
+        "_class": "title"
+      }
+    ]
+  },
+  {
+    "div": [
+      {
+        "_class": "number",
+        "__text": "15"
+      },
+      {
+        "div": [
+          {
+            "span": [
+              {
+                "_class": "name",
+                "__text": "Klein"
+              },
+              {
+                "_class": "desc",
+                "__text": "ca. 28cm"
+              }
+            ],
+            "a": {
+              "_data-productid": "81",
+              "_data-packingunitid": "1",
+              "__text": "7,00 €"
+            }
+          },
+          {
+            "span": [
+              {
+                "_class": "name",
+                "__text": "Groß"
+              },
+              {
+                "_class": "desc",
+                "__text": "ca. 32cm"
+              }
+            ],
+            "a": {
+              "_data-productid": "81",
+              "_data-packingunitid": "2",
+              "__text": "8,50 €"
+            }
+          },
+          {
+            "span": [
+              {
+                "_class": "name",
+                "__text": "Family"
+              },
+              {
+                "_class": "desc",
+                "__text": "45x32cm"
+              }
+            ],
+            "a": {
+              "_data-productid": "81",
+              "_data-packingunitid": "3",
+              "__text": "16,50 €"
+            }
+          },
+          {
+            "span": [
+              {
+                "_class": "name",
+                "__text": "Party"
+              },
+              {
+                "_class": "desc",
+                "__text": "60x40cm"
+              }
+            ],
+            "a": {
+              "_data-productid": "81",
+              "_data-packingunitid": "4",
+              "__text": "20,00 €"
+            }
+          }
+        ],
+        "_class": "variants"
+      },
+      {
+        "h3": {
+          "span": [
+            {
+              "_class": "additives",
+              "__text": "1, 4, 5"
+            }
+          ],
+          "__text": "Pizza Regina"
+        },
+        "p": "mit Vorderschinken und Paprika",
+        "_class": "title"
+      }
+    ]
+  },
+  {
+    "div": [
+      {
+        "_class": "number",
+        "__text": "17"
+      },
+      {
+        "div": [
+          {
+            "span": [
+              {
+                "_class": "name",
+                "__text": "Klein"
+              },
+              {
+                "_class": "desc",
+                "__text": "ca. 28cm"
+              }
+            ],
+            "a": {
+              "_data-productid": "82",
+              "_data-packingunitid": "1",
+              "__text": "7,00 €"
+            }
+          },
+          {
+            "span": [
+              {
+                "_class": "name",
+                "__text": "Groß"
+              },
+              {
+                "_class": "desc",
+                "__text": "ca. 32cm"
+              }
+            ],
+            "a": {
+              "_data-productid": "82",
+              "_data-packingunitid": "2",
+              "__text": "8,50 €"
+            }
+          },
+          {
+            "span": [
+              {
+                "_class": "name",
+                "__text": "Family"
+              },
+              {
+                "_class": "desc",
+                "__text": "45x32cm"
+              }
+            ],
+            "a": {
+              "_data-productid": "82",
+              "_data-packingunitid": "3",
+              "__text": "16,50 €"
+            }
+          },
+          {
+            "span": [
+              {
+                "_class": "name",
+                "__text": "Party"
+              },
+              {
+                "_class": "desc",
+                "__text": "60x40cm"
+              }
+            ],
+            "a": {
+              "_data-productid": "82",
+              "_data-packingunitid": "4",
+              "__text": "20,00 €"
+            }
+          }
+        ],
+        "_class": "variants"
+      },
+      {
+        "h3": {
+          "span": [
+            {
+              "_class": "additives",
+              "__text": "1, 4, 5"
+            }
+          ],
+          "__text": "Pizza Hawaii"
+        },
+        "p": "mit Vorderschinken und Ananas",
+        "_class": "title"
+      }
+    ]
+  },
+  {
+    "div": [
+      {
+        "_class": "number",
+        "__text": "18"
+      },
+      {
+        "div": [
+          {
+            "span": [
+              {
+                "_class": "name",
+                "__text": "Klein"
+              },
+              {
+                "_class": "desc",
+                "__text": "ca. 28cm"
+              }
+            ],
+            "a": {
+              "_data-productid": "83",
+              "_data-packingunitid": "1",
+              "__text": "7,00 €"
+            }
+          },
+          {
+            "span": [
+              {
+                "_class": "name",
+                "__text": "Groß"
+              },
+              {
+                "_class": "desc",
+                "__text": "ca. 32cm"
+              }
+            ],
+            "a": {
+              "_data-productid": "83",
+              "_data-packingunitid": "2",
+              "__text": "8,50 €"
+            }
+          },
+          {
+            "span": [
+              {
+                "_class": "name",
+                "__text": "Family"
+              },
+              {
+                "_class": "desc",
+                "__text": "45x32cm"
+              }
+            ],
+            "a": {
+              "_data-productid": "83",
+              "_data-packingunitid": "3",
+              "__text": "16,50 €"
+            }
+          },
+          {
+            "span": [
+              {
+                "_class": "name",
+                "__text": "Party"
+              },
+              {
+                "_class": "desc",
+                "__text": "60x40cm"
+              }
+            ],
+            "a": {
+              "_data-productid": "83",
+              "_data-packingunitid": "4",
+              "__text": "20,00 €"
+            }
+          }
+        ],
+        "_class": "variants"
+      },
+      {
+        "h3": "Pizza Mozzarella",
+        "p": "mit frischen Tomaten, Mozzarella und Basilikum",
+        "_class": "title"
+      }
+    ]
+  },
+  {
+    "div": [
+      {
+        "_class": "number",
+        "__text": "19"
+      },
+      {
+        "div": [
+          {
+            "span": [
+              {
+                "_class": "name",
+                "__text": "Klein"
+              },
+              {
+                "_class": "desc",
+                "__text": "ca. 28cm"
+              }
+            ],
+            "a": {
+              "_data-productid": "84",
+              "_data-packingunitid": "1",
+              "__text": "7,50 €"
+            }
+          },
+          {
+            "span": [
+              {
+                "_class": "name",
+                "__text": "Groß"
+              },
+              {
+                "_class": "desc",
+                "__text": "ca. 32cm"
+              }
+            ],
+            "a": {
+              "_data-productid": "84",
+              "_data-packingunitid": "2",
+              "__text": "9,00 €"
+            }
+          },
+          {
+            "span": [
+              {
+                "_class": "name",
+                "__text": "Family"
+              },
+              {
+                "_class": "desc",
+                "__text": "45x32cm"
+              }
+            ],
+            "a": {
+              "_data-productid": "84",
+              "_data-packingunitid": "3",
+              "__text": "17,00 €"
+            }
+          },
+          {
+            "span": [
+              {
+                "_class": "name",
+                "__text": "Party"
+              },
+              {
+                "_class": "desc",
+                "__text": "60x40cm"
+              }
+            ],
+            "a": {
+              "_data-productid": "84",
+              "_data-packingunitid": "4",
+              "__text": "20,50 €"
+            }
+          }
+        ],
+        "_class": "variants"
+      },
+      {
+        "h3": {
+          "span": [
+            {
+              "_class": "additives",
+              "__text": "1, 4, 5"
+            }
+          ],
+          "__text": "Pizza Mista"
+        },
+        "p": "mit Vorderschinken, Salami und Champignons",
+        "_class": "title"
+      }
+    ]
+  },
+  {
+    "div": [
+      {
+        "_class": "number",
+        "__text": "20"
+      },
+      {
+        "div": [
+          {
+            "span": [
+              {
+                "_class": "name",
+                "__text": "Klein"
+              },
+              {
+                "_class": "desc",
+                "__text": "ca. 28cm"
+              }
+            ],
+            "a": {
+              "_data-productid": "85",
+              "_data-packingunitid": "1",
+              "__text": "7,50 €"
+            }
+          },
+          {
+            "span": [
+              {
+                "_class": "name",
+                "__text": "Groß"
+              },
+              {
+                "_class": "desc",
+                "__text": "ca. 32cm"
+              }
+            ],
+            "a": {
+              "_data-productid": "85",
+              "_data-packingunitid": "2",
+              "__text": "9,00 €"
+            }
+          },
+          {
+            "span": [
+              {
+                "_class": "name",
+                "__text": "Family"
+              },
+              {
+                "_class": "desc",
+                "__text": "45x32cm"
+              }
+            ],
+            "a": {
+              "_data-productid": "85",
+              "_data-packingunitid": "3",
+              "__text": "17,00 €"
+            }
+          },
+          {
+            "span": [
+              {
+                "_class": "name",
+                "__text": "Party"
+              },
+              {
+                "_class": "desc",
+                "__text": "60x40cm"
+              }
+            ],
+            "a": {
+              "_data-productid": "85",
+              "_data-packingunitid": "4",
+              "__text": "21,00 €"
+            }
+          }
+        ],
+        "_class": "variants"
+      },
+      {
+        "h3": {
+          "span": [
+            {
+              "_class": "additives",
+              "__text": "1, 4, 5"
+            }
+          ],
+          "__text": "Pizza Navi"
+        },
+        "p": "mit Vorderschinken, Salami, Peperoniwurst und Champignons",
+        "_class": "title"
+      }
+    ]
+  },
+  {
+    "div": [
+      {
+        "_class": "number",
+        "__text": "21"
+      },
+      {
+        "div": [
+          {
+            "span": [
+              {
+                "_class": "name",
+                "__text": "Klein"
+              },
+              {
+                "_class": "desc",
+                "__text": "ca. 28cm"
+              }
+            ],
+            "a": {
+              "_data-productid": "86",
+              "_data-packingunitid": "1",
+              "__text": "7,50 €"
+            }
+          },
+          {
+            "span": [
+              {
+                "_class": "name",
+                "__text": "Groß"
+              },
+              {
+                "_class": "desc",
+                "__text": "ca. 32cm"
+              }
+            ],
+            "a": {
+              "_data-productid": "86",
+              "_data-packingunitid": "2",
+              "__text": "9,00 €"
+            }
+          },
+          {
+            "span": [
+              {
+                "_class": "name",
+                "__text": "Family"
+              },
+              {
+                "_class": "desc",
+                "__text": "45x32cm"
+              }
+            ],
+            "a": {
+              "_data-productid": "86",
+              "_data-packingunitid": "3",
+              "__text": "17,00 €"
+            }
+          },
+          {
+            "span": [
+              {
+                "_class": "name",
+                "__text": "Party"
+              },
+              {
+                "_class": "desc",
+                "__text": "60x40cm"
+              }
+            ],
+            "a": {
+              "_data-productid": "86",
+              "_data-packingunitid": "4",
+              "__text": "21,00 €"
+            }
+          }
+        ],
+        "_class": "variants"
+      },
+      {
+        "h3": {
+          "span": [
+            {
+              "_class": "additives",
+              "__text": "1, 4, 5"
+            }
+          ],
+          "__text": "Pizza Vier Jahreszeiten"
+        },
+        "p": "mit Vorderschinken, Salami, Paprika und Champignons",
+        "_class": "title"
+      }
+    ]
+  },
+  {
+    "div": [
+      {
+        "_class": "number",
+        "__text": "22"
+      },
+      {
+        "div": [
+          {
+            "span": [
+              {
+                "_class": "name",
+                "__text": "Klein"
+              },
+              {
+                "_class": "desc",
+                "__text": "ca. 28cm"
+              }
+            ],
+            "a": {
+              "_data-productid": "87",
+              "_data-packingunitid": "1",
+              "__text": "7,50 €"
+            }
+          },
+          {
+            "span": [
+              {
+                "_class": "name",
+                "__text": "Groß"
+              },
+              {
+                "_class": "desc",
+                "__text": "ca. 32cm"
+              }
+            ],
+            "a": {
+              "_data-productid": "87",
+              "_data-packingunitid": "2",
+              "__text": "9,00 €"
+            }
+          },
+          {
+            "span": [
+              {
+                "_class": "name",
+                "__text": "Family"
+              },
+              {
+                "_class": "desc",
+                "__text": "45x32cm"
+              }
+            ],
+            "a": {
+              "_data-productid": "87",
+              "_data-packingunitid": "3",
+              "__text": "17,00 €"
+            }
+          },
+          {
+            "span": [
+              {
+                "_class": "name",
+                "__text": "Party"
+              },
+              {
+                "_class": "desc",
+                "__text": "60x40cm"
+              }
+            ],
+            "a": {
+              "_data-productid": "87",
+              "_data-packingunitid": "4",
+              "__text": "20,50 €"
+            }
+          }
+        ],
+        "_class": "variants"
+      },
+      {
+        "h3": {
+          "span": [
+            {
+              "_class": "additives",
+              "__text": "1, 4, 5"
+            }
+          ],
+          "__text": "Pizza Italia"
+        },
+        "p": "mit Vorderschinken, Paprika und Spiegelei",
+        "_class": "title"
+      }
+    ]
+  },
+  {
+    "div": [
+      {
+        "_class": "number",
+        "__text": "23"
+      },
+      {
+        "div": [
+          {
+            "span": [
+              {
+                "_class": "name",
+                "__text": "Klein"
+              },
+              {
+                "_class": "desc",
+                "__text": "ca. 28cm"
+              }
+            ],
+            "a": {
+              "_data-productid": "88",
+              "_data-packingunitid": "1",
+              "__text": "7,50 €"
+            }
+          },
+          {
+            "span": [
+              {
+                "_class": "name",
+                "__text": "Groß"
+              },
+              {
+                "_class": "desc",
+                "__text": "ca. 32cm"
+              }
+            ],
+            "a": {
+              "_data-productid": "88",
+              "_data-packingunitid": "2",
+              "__text": "9,00 €"
+            }
+          },
+          {
+            "span": [
+              {
+                "_class": "name",
+                "__text": "Family"
+              },
+              {
+                "_class": "desc",
+                "__text": "45x32cm"
+              }
+            ],
+            "a": {
+              "_data-productid": "88",
+              "_data-packingunitid": "3",
+              "__text": "17,00 €"
+            }
+          },
+          {
+            "span": [
+              {
+                "_class": "name",
+                "__text": "Party"
+              },
+              {
+                "_class": "desc",
+                "__text": "60x40cm"
+              }
+            ],
+            "a": {
+              "_data-productid": "88",
+              "_data-packingunitid": "4",
+              "__text": "21,00 €"
+            }
+          }
+        ],
+        "_class": "variants"
+      },
+      {
+        "h3": "Pizza Tonno Cipolle",
+        "p": "mit Thunfisch, Zwiebel und Knoblauch",
+        "_class": "title"
+      }
+    ]
+  },
+  {
+    "div": [
+      {
+        "_class": "number",
+        "__text": "24"
+      },
+      {
+        "div": [
+          {
+            "span": [
+              {
+                "_class": "name",
+                "__text": "Klein"
+              },
+              {
+                "_class": "desc",
+                "__text": "ca. 28cm"
+              }
+            ],
+            "a": {
+              "_data-productid": "89",
+              "_data-packingunitid": "1",
+              "__text": "8,00 €"
+            }
+          },
+          {
+            "span": [
+              {
+                "_class": "name",
+                "__text": "Groß"
+              },
+              {
+                "_class": "desc",
+                "__text": "ca. 32cm"
+              }
+            ],
+            "a": {
+              "_data-productid": "89",
+              "_data-packingunitid": "2",
+              "__text": "9,50 €"
+            }
+          },
+          {
+            "span": [
+              {
+                "_class": "name",
+                "__text": "Family"
+              },
+              {
+                "_class": "desc",
+                "__text": "45x32cm"
+              }
+            ],
+            "a": {
+              "_data-productid": "89",
+              "_data-packingunitid": "3",
+              "__text": "18,00 €"
+            }
+          },
+          {
+            "span": [
+              {
+                "_class": "name",
+                "__text": "Party"
+              },
+              {
+                "_class": "desc",
+                "__text": "60x40cm"
+              }
+            ],
+            "a": {
+              "_data-productid": "89",
+              "_data-packingunitid": "4",
+              "__text": "22,00 €"
+            }
+          }
+        ],
+        "_class": "variants"
+      },
+      {
+        "h3": "Pizza Frutti di Mare",
+        "p": "mit Meeresfrüchten",
+        "_class": "title"
+      }
+    ]
+  },
+  {
+    "div": [
+      {
+        "_class": "number",
+        "__text": "25"
+      },
+      {
+        "div": [
+          {
+            "span": [
+              {
+                "_class": "name",
+                "__text": "Klein"
+              },
+              {
+                "_class": "desc",
+                "__text": "ca. 28cm"
+              }
+            ],
+            "a": {
+              "_data-productid": "90",
+              "_data-packingunitid": "1",
+              "__text": "7,50 €"
+            }
+          },
+          {
+            "span": [
+              {
+                "_class": "name",
+                "__text": "Groß"
+              },
+              {
+                "_class": "desc",
+                "__text": "ca. 32cm"
+              }
+            ],
+            "a": {
+              "_data-productid": "90",
+              "_data-packingunitid": "2",
+              "__text": "9,00 €"
+            }
+          },
+          {
+            "span": [
+              {
+                "_class": "name",
+                "__text": "Family"
+              },
+              {
+                "_class": "desc",
+                "__text": "45x32cm"
+              }
+            ],
+            "a": {
+              "_data-productid": "90",
+              "_data-packingunitid": "3",
+              "__text": "17,00 €"
+            }
+          },
+          {
+            "span": [
+              {
+                "_class": "name",
+                "__text": "Party"
+              },
+              {
+                "_class": "desc",
+                "__text": "60x40cm"
+              }
+            ],
+            "a": {
+              "_data-productid": "90",
+              "_data-packingunitid": "4",
+              "__text": "21,00 €"
+            }
+          }
+        ],
+        "_class": "variants"
+      },
+      {
+        "h3": "Pizza Sardellen",
+        "p": "mit Sardellen, Kapern und Zwiebeln",
+        "_class": "title"
+      }
+    ]
+  },
+  {
+    "div": [
+      {
+        "_class": "number",
+        "__text": "26"
+      },
+      {
+        "div": [
+          {
+            "span": [
+              {
+                "_class": "name",
+                "__text": "Klein"
+              },
+              {
+                "_class": "desc",
+                "__text": "ca. 28cm"
+              }
+            ],
+            "a": {
+              "_data-productid": "91",
+              "_data-packingunitid": "1",
+              "__text": "7,50 €"
+            }
+          },
+          {
+            "span": [
+              {
+                "_class": "name",
+                "__text": "Groß"
+              },
+              {
+                "_class": "desc",
+                "__text": "ca. 32cm"
+              }
+            ],
+            "a": {
+              "_data-productid": "91",
+              "_data-packingunitid": "2",
+              "__text": "9,00 €"
+            }
+          },
+          {
+            "span": [
+              {
+                "_class": "name",
+                "__text": "Family"
+              },
+              {
+                "_class": "desc",
+                "__text": "45x32cm"
+              }
+            ],
+            "a": {
+              "_data-productid": "91",
+              "_data-packingunitid": "3",
+              "__text": "17,00 €"
+            }
+          },
+          {
+            "span": [
+              {
+                "_class": "name",
+                "__text": "Party"
+              },
+              {
+                "_class": "desc",
+                "__text": "60x40cm"
+              }
+            ],
+            "a": {
+              "_data-productid": "91",
+              "_data-packingunitid": "4",
+              "__text": "21,00 €"
+            }
+          }
+        ],
+        "_class": "variants"
+      },
+      {
+        "h3": {
+          "span": [
+            {
+              "_class": "additives",
+              "__text": "1, 4, 5"
+            }
+          ],
+          "__text": "Pizza Capricciosa"
+        },
+        "p": "mit Vorderschinken, Champignons, Oliven und Artischocken",
+        "_class": "title"
+      }
+    ]
+  },
+  {
+    "div": [
+      {
+        "_class": "number",
+        "__text": "27"
+      },
+      {
+        "div": [
+          {
+            "span": [
+              {
+                "_class": "name",
+                "__text": "Klein"
+              },
+              {
+                "_class": "desc",
+                "__text": "ca. 28cm"
+              }
+            ],
+            "a": {
+              "_data-productid": "92",
+              "_data-packingunitid": "1",
+              "__text": "7,50 €"
+            }
+          },
+          {
+            "span": [
+              {
+                "_class": "name",
+                "__text": "Groß"
+              },
+              {
+                "_class": "desc",
+                "__text": "ca. 32cm"
+              }
+            ],
+            "a": {
+              "_data-productid": "92",
+              "_data-packingunitid": "2",
+              "__text": "9,00 €"
+            }
+          },
+          {
+            "span": [
+              {
+                "_class": "name",
+                "__text": "Family"
+              },
+              {
+                "_class": "desc",
+                "__text": "45x32cm"
+              }
+            ],
+            "a": {
+              "_data-productid": "92",
+              "_data-packingunitid": "3",
+              "__text": "17,00 €"
+            }
+          },
+          {
+            "span": [
+              {
+                "_class": "name",
+                "__text": "Party"
+              },
+              {
+                "_class": "desc",
+                "__text": "60x40cm"
+              }
+            ],
+            "a": {
+              "_data-productid": "92",
+              "_data-packingunitid": "4",
+              "__text": "21,00 €"
+            }
+          }
+        ],
+        "_class": "variants"
+      },
+      {
+        "h3": {
+          "span": [
+            {
+              "_class": "additives",
+              "__text": "1, 4, 5"
+            }
+          ],
+          "__text": "Pizza Diavolo"
+        },
+        "p": "mit Peperoniwurst, grüne Peperoni und Paprika",
+        "_class": "title"
+      }
+    ]
+  },
+  {
+    "div": [
+      {
+        "_class": "number",
+        "__text": "28"
+      },
+      {
+        "div": [
+          {
+            "span": [
+              {
+                "_class": "name",
+                "__text": "Klein"
+              },
+              {
+                "_class": "desc",
+                "__text": "ca. 28cm"
+              }
+            ],
+            "a": {
+              "_data-productid": "93",
+              "_data-packingunitid": "1",
+              "__text": "7,50 €"
+            }
+          },
+          {
+            "span": [
+              {
+                "_class": "name",
+                "__text": "Groß"
+              },
+              {
+                "_class": "desc",
+                "__text": "ca. 32cm"
+              }
+            ],
+            "a": {
+              "_data-productid": "93",
+              "_data-packingunitid": "2",
+              "__text": "9,00 €"
+            }
+          },
+          {
+            "span": [
+              {
+                "_class": "name",
+                "__text": "Family"
+              },
+              {
+                "_class": "desc",
+                "__text": "45x32cm"
+              }
+            ],
+            "a": {
+              "_data-productid": "93",
+              "_data-packingunitid": "3",
+              "__text": "17,00 €"
+            }
+          },
+          {
+            "span": [
+              {
+                "_class": "name",
+                "__text": "Party"
+              },
+              {
+                "_class": "desc",
+                "__text": "60x40cm"
+              }
+            ],
+            "a": {
+              "_data-productid": "93",
+              "_data-packingunitid": "4",
+              "__text": "21,00 €"
+            }
+          }
+        ],
+        "_class": "variants"
+      },
+      {
+        "h3": "Pizza Bobby's",
+        "p": "mit frischen Tomaten, Spinat und Mozzarella",
+        "_class": "title"
+      }
+    ]
+  },
+  {
+    "div": [
+      {
+        "_class": "number",
+        "__text": "29"
+      },
+      {
+        "div": [
+          {
+            "span": [
+              {
+                "_class": "name",
+                "__text": "Klein"
+              },
+              {
+                "_class": "desc",
+                "__text": "ca. 28cm"
+              }
+            ],
+            "a": {
+              "_data-productid": "94",
+              "_data-packingunitid": "1",
+              "__text": "8,00 €"
+            }
+          },
+          {
+            "span": [
+              {
+                "_class": "name",
+                "__text": "Groß"
+              },
+              {
+                "_class": "desc",
+                "__text": "ca. 32cm"
+              }
+            ],
+            "a": {
+              "_data-productid": "94",
+              "_data-packingunitid": "2",
+              "__text": "9,50 €"
+            }
+          },
+          {
+            "span": [
+              {
+                "_class": "name",
+                "__text": "Family"
+              },
+              {
+                "_class": "desc",
+                "__text": "45x32cm"
+              }
+            ],
+            "a": {
+              "_data-productid": "94",
+              "_data-packingunitid": "3",
+              "__text": "18,00 €"
+            }
+          },
+          {
+            "span": [
+              {
+                "_class": "name",
+                "__text": "Party"
+              },
+              {
+                "_class": "desc",
+                "__text": "60x40cm"
+              }
+            ],
+            "a": {
+              "_data-productid": "94",
+              "_data-packingunitid": "4",
+              "__text": "22,00 €"
+            }
+          }
+        ],
+        "_class": "variants"
+      },
+      {
+        "h3": "Pizza Vegetarisch",
+        "p": "mit Champignons, Paprika, Artischocken, Broccoli, Spinat, grüne Peperoni, Zwiebeln und Oliven",
+        "_class": "title"
+      }
+    ]
+  },
+  {
+    "div": [
+      {
+        "_class": "number",
+        "__text": "30"
+      },
+      {
+        "div": [
+          {
+            "span": [
+              {
+                "_class": "name",
+                "__text": "Klein"
+              },
+              {
+                "_class": "desc",
+                "__text": "ca. 28cm"
+              }
+            ],
+            "a": {
+              "_data-productid": "95",
+              "_data-packingunitid": "1",
+              "__text": "8,00 €"
+            }
+          },
+          {
+            "span": [
+              {
+                "_class": "name",
+                "__text": "Groß"
+              },
+              {
+                "_class": "desc",
+                "__text": "ca. 32cm"
+              }
+            ],
+            "a": {
+              "_data-productid": "95",
+              "_data-packingunitid": "2",
+              "__text": "9,50 €"
+            }
+          },
+          {
+            "span": [
+              {
+                "_class": "name",
+                "__text": "Family"
+              },
+              {
+                "_class": "desc",
+                "__text": "45x32cm"
+              }
+            ],
+            "a": {
+              "_data-productid": "95",
+              "_data-packingunitid": "3",
+              "__text": "18,00 €"
+            }
+          },
+          {
+            "span": [
+              {
+                "_class": "name",
+                "__text": "Party"
+              },
+              {
+                "_class": "desc",
+                "__text": "60x40cm"
+              }
+            ],
+            "a": {
+              "_data-productid": "95",
+              "_data-packingunitid": "4",
+              "__text": "22,00 €"
+            }
+          }
+        ],
+        "_class": "variants"
+      },
+      {
+        "h3": {
+          "span": [
+            {
+              "_class": "additives",
+              "__text": "1, 4, 5"
+            }
+          ],
+          "__text": "Pizza Speciale"
+        },
+        "p": "mit Vorderschinken, Salami, Peperoniwurst, Oliven, Champignons, grüne Peperoni, Paprika und Zwiebeln",
+        "_class": "title"
+      }
+    ]
+  },
+  {
+    "div": [
+      {
+        "_class": "number",
+        "__text": "31"
+      },
+      {
+        "div": [
+          {
+            "span": [
+              {
+                "_class": "name",
+                "__text": "Klein"
+              },
+              {
+                "_class": "desc",
+                "__text": "ca. 28cm"
+              }
+            ],
+            "a": {
+              "_data-productid": "96",
+              "_data-packingunitid": "1",
+              "__text": "8,00 €"
+            }
+          },
+          {
+            "span": [
+              {
+                "_class": "name",
+                "__text": "Groß"
+              },
+              {
+                "_class": "desc",
+                "__text": "ca. 32cm"
+              }
+            ],
+            "a": {
+              "_data-productid": "96",
+              "_data-packingunitid": "2",
+              "__text": "9,50 €"
+            }
+          },
+          {
+            "span": [
+              {
+                "_class": "name",
+                "__text": "Family"
+              },
+              {
+                "_class": "desc",
+                "__text": "45x32cm"
+              }
+            ],
+            "a": {
+              "_data-productid": "96",
+              "_data-packingunitid": "3",
+              "__text": "18,00 €"
+            }
+          },
+          {
+            "span": [
+              {
+                "_class": "name",
+                "__text": "Party"
+              },
+              {
+                "_class": "desc",
+                "__text": "60x40cm"
+              }
+            ],
+            "a": {
+              "_data-productid": "96",
+              "_data-packingunitid": "4",
+              "__text": "22,00 €"
+            }
+          }
+        ],
+        "_class": "variants"
+      },
+      {
+        "h3": {
+          "span": [
+            {
+              "_class": "additives",
+              "__text": "1, 4, 5"
+            }
+          ],
+          "__text": "Pizza Milano #40;scharf#41;"
+        },
+        "p": "mit Vorderschinken, Salami, Hackfleisch, Zwiebeln, Jalapenos und Knoblauch",
+        "_class": "title"
+      }
+    ]
+  },
+  {
+    "div": [
+      {
+        "_class": "number",
+        "__text": "32"
+      },
+      {
+        "div": [
+          {
+            "span": [
+              {
+                "_class": "name",
+                "__text": "Klein"
+              },
+              {
+                "_class": "desc",
+                "__text": "ca. 28cm"
+              }
+            ],
+            "a": {
+              "_data-productid": "97",
+              "_data-packingunitid": "1",
+              "__text": "8,00 €"
+            }
+          },
+          {
+            "span": [
+              {
+                "_class": "name",
+                "__text": "Groß"
+              },
+              {
+                "_class": "desc",
+                "__text": "ca. 32cm"
+              }
+            ],
+            "a": {
+              "_data-productid": "97",
+              "_data-packingunitid": "2",
+              "__text": "9,50 €"
+            }
+          },
+          {
+            "span": [
+              {
+                "_class": "name",
+                "__text": "Family"
+              },
+              {
+                "_class": "desc",
+                "__text": "45x32cm"
+              }
+            ],
+            "a": {
+              "_data-productid": "97",
+              "_data-packingunitid": "3",
+              "__text": "18,00 €"
+            }
+          },
+          {
+            "span": [
+              {
+                "_class": "name",
+                "__text": "Party"
+              },
+              {
+                "_class": "desc",
+                "__text": "60x40cm"
+              }
+            ],
+            "a": {
+              "_data-productid": "97",
+              "_data-packingunitid": "4",
+              "__text": "22,00 €"
+            }
+          }
+        ],
+        "_class": "variants"
+      },
+      {
+        "h3": {
+          "span": [
+            {
+              "_class": "additives",
+              "__text": "1, 4, 5"
+            }
+          ],
+          "__text": "Pizza Mexicana #40;scharf#41;"
+        },
+        "p": "mit Peperoniwurst, Champignons, Paprika, Kidney Bohnen, Mais, Knoblauch und Jalapenos",
+        "_class": "title"
+      }
+    ]
+  },
+  {
+    "div": [
+      {
+        "_class": "number",
+        "__text": "33"
+      },
+      {
+        "div": [
+          {
+            "span": [
+              {
+                "_class": "name",
+                "__text": "Klein"
+              },
+              {
+                "_class": "desc",
+                "__text": "ca. 28cm"
+              }
+            ],
+            "a": {
+              "_data-productid": "98",
+              "_data-packingunitid": "1",
+              "__text": "8,00 €"
+            }
+          },
+          {
+            "span": [
+              {
+                "_class": "name",
+                "__text": "Groß"
+              },
+              {
+                "_class": "desc",
+                "__text": "ca. 32cm"
+              }
+            ],
+            "a": {
+              "_data-productid": "98",
+              "_data-packingunitid": "2",
+              "__text": "9,50 €"
+            }
+          },
+          {
+            "span": [
+              {
+                "_class": "name",
+                "__text": "Family"
+              },
+              {
+                "_class": "desc",
+                "__text": "45x32cm"
+              }
+            ],
+            "a": {
+              "_data-productid": "98",
+              "_data-packingunitid": "3",
+              "__text": "18,00 €"
+            }
+          },
+          {
+            "span": [
+              {
+                "_class": "name",
+                "__text": "Party"
+              },
+              {
+                "_class": "desc",
+                "__text": "60x40cm"
+              }
+            ],
+            "a": {
+              "_data-productid": "98",
+              "_data-packingunitid": "4",
+              "__text": "22,00 €"
+            }
+          }
+        ],
+        "_class": "variants"
+      },
+      {
+        "h3": "Pizza Santana #40;scharf#41;",
+        "p": "Hähnchenbrustfilet, Hirtenkäse, Zwiebeln, grüne Peperoni und Chili",
+        "_class": "title"
+      }
+    ]
+  },
+  {
+    "div": [
+      {
+        "_class": "number",
+        "__text": "34"
+      },
+      {
+        "div": [
+          {
+            "span": [
+              {
+                "_class": "name",
+                "__text": "Klein"
+              },
+              {
+                "_class": "desc",
+                "__text": "ca. 28cm"
+              }
+            ],
+            "a": {
+              "_data-productid": "99",
+              "_data-packingunitid": "1",
+              "__text": "7,50 €"
+            }
+          },
+          {
+            "span": [
+              {
+                "_class": "name",
+                "__text": "Groß"
+              },
+              {
+                "_class": "desc",
+                "__text": "ca. 32cm"
+              }
+            ],
+            "a": {
+              "_data-productid": "99",
+              "_data-packingunitid": "2",
+              "__text": "9,00 €"
+            }
+          },
+          {
+            "span": [
+              {
+                "_class": "name",
+                "__text": "Family"
+              },
+              {
+                "_class": "desc",
+                "__text": "45x32cm"
+              }
+            ],
+            "a": {
+              "_data-productid": "99",
+              "_data-packingunitid": "3",
+              "__text": "17,50 €"
+            }
+          },
+          {
+            "span": [
+              {
+                "_class": "name",
+                "__text": "Party"
+              },
+              {
+                "_class": "desc",
+                "__text": "60x40cm"
+              }
+            ],
+            "a": {
+              "_data-productid": "99",
+              "_data-packingunitid": "4",
+              "__text": "21,00 €"
+            }
+          }
+        ],
+        "_class": "variants"
+      },
+      {
+        "h3": "Pizza Hähnchen-Gyros",
+        "p": "mit Hähnchenbrustfilet, Curry und Zwiebeln",
+        "_class": "title"
+      }
+    ]
+  },
+  {
+    "div": [
+      {
+        "_class": "number",
+        "__text": "35"
+      },
+      {
+        "div": [
+          {
+            "span": [
+              {
+                "_class": "name",
+                "__text": "Klein"
+              },
+              {
+                "_class": "desc",
+                "__text": "ca. 28cm"
+              }
+            ],
+            "a": {
+              "_data-productid": "103",
+              "_data-packingunitid": "1",
+              "__text": "8,00 €"
+            }
+          },
+          {
+            "span": [
+              {
+                "_class": "name",
+                "__text": "Groß"
+              },
+              {
+                "_class": "desc",
+                "__text": "ca. 32cm"
+              }
+            ],
+            "a": {
+              "_data-productid": "103",
+              "_data-packingunitid": "2",
+              "__text": "9,50 €"
+            }
+          },
+          {
+            "span": [
+              {
+                "_class": "name",
+                "__text": "Family"
+              },
+              {
+                "_class": "desc",
+                "__text": "45x32cm"
+              }
+            ],
+            "a": {
+              "_data-productid": "103",
+              "_data-packingunitid": "3",
+              "__text": "18,00 €"
+            }
+          },
+          {
+            "span": [
+              {
+                "_class": "name",
+                "__text": "Party"
+              },
+              {
+                "_class": "desc",
+                "__text": "60x40cm"
+              }
+            ],
+            "a": {
+              "_data-productid": "103",
+              "_data-packingunitid": "4",
+              "__text": "22,00 €"
+            }
+          }
+        ],
+        "_class": "variants"
+      },
+      {
+        "h3": {
+          "span": [
+            {
+              "_class": "additives",
+              "__text": "1, 4, 5"
+            }
+          ],
+          "__text": "Pizza Holondaise #40;scharf#41;"
+        },
+        "p": "Mit Vorderschinken, Salami, Hähnchenbrustfilet, Paprika, Zwiebeln, Chili und Sauce Holondaise",
+        "_class": "title"
+      }
+    ]
+  },
+  {
+    "div": [
+      {
+        "_class": "number",
+        "__text": "36"
+      },
+      {
+        "div": [
+          {
+            "span": [
+              {
+                "_class": "name",
+                "__text": "Klein"
+              },
+              {
+                "_class": "desc",
+                "__text": "ca. 28cm"
+              }
+            ],
+            "a": {
+              "_data-productid": "104",
+              "_data-packingunitid": "1",
+              "__text": "8,00 €"
+            }
+          },
+          {
+            "span": [
+              {
+                "_class": "name",
+                "__text": "Groß"
+              },
+              {
+                "_class": "desc",
+                "__text": "ca. 32cm"
+              }
+            ],
+            "a": {
+              "_data-productid": "104",
+              "_data-packingunitid": "2",
+              "__text": "9,50 €"
+            }
+          },
+          {
+            "span": [
+              {
+                "_class": "name",
+                "__text": "Family"
+              },
+              {
+                "_class": "desc",
+                "__text": "45x32cm"
+              }
+            ],
+            "a": {
+              "_data-productid": "104",
+              "_data-packingunitid": "3",
+              "__text": "18,00 €"
+            }
+          },
+          {
+            "span": [
+              {
+                "_class": "name",
+                "__text": "Party"
+              },
+              {
+                "_class": "desc",
+                "__text": "60x40cm"
+              }
+            ],
+            "a": {
+              "_data-productid": "104",
+              "_data-packingunitid": "4",
+              "__text": "22,00 €"
+            }
+          }
+        ],
+        "_class": "variants"
+      },
+      {
+        "h3": "Pizza Barbecue",
+        "p": "mit Hähnchenbrustfilet, Zwiebeln, Paprika und BBQ-Sauce",
+        "_class": "title"
+      }
+    ]
+  },
+  {
+    "div": [
+      {
+        "_class": "number",
+        "__text": "37"
+      },
+      {
+        "div": [
+          {
+            "span": [
+              {
+                "_class": "name",
+                "__text": "Klein"
+              },
+              {
+                "_class": "desc",
+                "__text": "ca. 28cm"
+              }
+            ],
+            "a": {
+              "_data-productid": "105",
+              "_data-packingunitid": "1",
+              "__text": "8,00 €"
+            }
+          },
+          {
+            "span": [
+              {
+                "_class": "name",
+                "__text": "Groß"
+              },
+              {
+                "_class": "desc",
+                "__text": "ca. 32cm"
+              }
+            ],
+            "a": {
+              "_data-productid": "105",
+              "_data-packingunitid": "2",
+              "__text": "9,50 €"
+            }
+          },
+          {
+            "span": [
+              {
+                "_class": "name",
+                "__text": "Family"
+              },
+              {
+                "_class": "desc",
+                "__text": "45x32cm"
+              }
+            ],
+            "a": {
+              "_data-productid": "105",
+              "_data-packingunitid": "3",
+              "__text": "18,00 €"
+            }
+          },
+          {
+            "span": [
+              {
+                "_class": "name",
+                "__text": "Party"
+              },
+              {
+                "_class": "desc",
+                "__text": "60x40cm"
+              }
+            ],
+            "a": {
+              "_data-productid": "105",
+              "_data-packingunitid": "4",
+              "__text": "22,00 €"
+            }
+          }
+        ],
+        "_class": "variants"
+      },
+      {
+        "h3": {
+          "span": [
+            {
+              "_class": "additives",
+              "__text": "1, 4, 5"
+            }
+          ],
+          "__text": "Pizza Texas"
+        },
+        "p": "mit Peperoniwurst, Paprika, Mozzarella und BBQ-Sauce",
+        "_class": "title"
+      }
+    ]
+  },
+  {
+    "div": [
+      {
+        "_class": "number",
+        "__text": "38"
+      },
+      {
+        "div": [
+          {
+            "span": [
+              {
+                "_class": "name",
+                "__text": "Klein"
+              },
+              {
+                "_class": "desc",
+                "__text": "ca. 28cm"
+              }
+            ],
+            "a": {
+              "_data-productid": "106",
+              "_data-packingunitid": "1",
+              "__text": "8,00 €"
+            }
+          },
+          {
+            "span": [
+              {
+                "_class": "name",
+                "__text": "Groß"
+              },
+              {
+                "_class": "desc",
+                "__text": "ca. 32cm"
+              }
+            ],
+            "a": {
+              "_data-productid": "106",
+              "_data-packingunitid": "2",
+              "__text": "9,50 €"
+            }
+          },
+          {
+            "span": [
+              {
+                "_class": "name",
+                "__text": "Family"
+              },
+              {
+                "_class": "desc",
+                "__text": "45x32cm"
+              }
+            ],
+            "a": {
+              "_data-productid": "106",
+              "_data-packingunitid": "3",
+              "__text": "18,00 €"
+            }
+          },
+          {
+            "span": [
+              {
+                "_class": "name",
+                "__text": "Party"
+              },
+              {
+                "_class": "desc",
+                "__text": "60x40cm"
+              }
+            ],
+            "a": {
+              "_data-productid": "106",
+              "_data-packingunitid": "4",
+              "__text": "22,00 €"
+            }
+          }
+        ],
+        "_class": "variants"
+      },
+      {
+        "h3": {
+          "span": [
+            {
+              "_class": "additives",
+              "__text": "1, 4, 5"
+            }
+          ],
+          "__text": "Pizza Mumbai"
+        },
+        "p": "mit Salami, Mais, Hähnchenbrustfilet und Zwiebeln",
+        "_class": "title"
+      }
+    ]
+  },
+  {
+    "div": [
+      {
+        "_class": "number",
+        "__text": "39"
+      },
+      {
+        "div": [
+          {
+            "span": [
+              {
+                "_class": "name",
+                "__text": "Klein"
+              },
+              {
+                "_class": "desc",
+                "__text": "ca. 28cm"
+              }
+            ],
+            "a": {
+              "_data-productid": "107",
+              "_data-packingunitid": "1",
+              "__text": "8,00 €"
+            }
+          },
+          {
+            "span": [
+              {
+                "_class": "name",
+                "__text": "Groß"
+              },
+              {
+                "_class": "desc",
+                "__text": "ca. 32cm"
+              }
+            ],
+            "a": {
+              "_data-productid": "107",
+              "_data-packingunitid": "2",
+              "__text": "9,50 €"
+            }
+          },
+          {
+            "span": [
+              {
+                "_class": "name",
+                "__text": "Family"
+              },
+              {
+                "_class": "desc",
+                "__text": "45x32cm"
+              }
+            ],
+            "a": {
+              "_data-productid": "107",
+              "_data-packingunitid": "3",
+              "__text": "18,00 €"
+            }
+          },
+          {
+            "span": [
+              {
+                "_class": "name",
+                "__text": "Party"
+              },
+              {
+                "_class": "desc",
+                "__text": "60x40cm"
+              }
+            ],
+            "a": {
+              "_data-productid": "107",
+              "_data-packingunitid": "4",
+              "__text": "22,00 €"
+            }
+          }
+        ],
+        "_class": "variants"
+      },
+      {
+        "h3": "Pizza Quadro Formagi",
+        "p": "mit Edamer, Hirtenkäse, Gorgonzola und Mozzarella",
+        "_class": "title"
+      }
+    ]
+  },
+  {
+    "div": [
+      {
+        "_class": "number",
+        "__text": "40"
+      },
+      {
+        "div": [
+          {
+            "span": [
+              {
+                "_class": "name",
+                "__text": "Klein"
+              },
+              {
+                "_class": "desc",
+                "__text": "ca. 28cm"
+              }
+            ],
+            "a": {
+              "_data-productid": "108",
+              "_data-packingunitid": "1",
+              "__text": "8,00 €"
+            }
+          },
+          {
+            "span": [
+              {
+                "_class": "name",
+                "__text": "Groß"
+              },
+              {
+                "_class": "desc",
+                "__text": "ca. 32cm"
+              }
+            ],
+            "a": {
+              "_data-productid": "108",
+              "_data-packingunitid": "2",
+              "__text": "9,50 €"
+            }
+          },
+          {
+            "span": [
+              {
+                "_class": "name",
+                "__text": "Family"
+              },
+              {
+                "_class": "desc",
+                "__text": "45x32cm"
+              }
+            ],
+            "a": {
+              "_data-productid": "108",
+              "_data-packingunitid": "3",
+              "__text": "20,00 €"
+            }
+          },
+          {
+            "span": [
+              {
+                "_class": "name",
+                "__text": "Party"
+              },
+              {
+                "_class": "desc",
+                "__text": "60x40cm"
+              }
+            ],
+            "a": {
+              "_data-productid": "108",
+              "_data-packingunitid": "4",
+              "__text": "24,00 €"
+            }
+          }
+        ],
+        "_class": "variants"
+      },
+      {
+        "h3": {
+          "span": [
+            {
+              "_class": "additives",
+              "__text": "1, 4, 5"
+            }
+          ],
+          "__text": "Pizza Calzone"
+        },
+        "p": "mit Vorderschinken, Salami und Champignons gefüllt",
+        "_class": "title"
+      }
+    ]
+  },
+  {
+    "div": [
+      {
+        "_class": "number",
+        "__text": "41"
+      },
+      {
+        "div": [
+          {
+            "span": [
+              {
+                "_class": "name",
+                "__text": "Klein"
+              },
+              {
+                "_class": "desc",
+                "__text": "ca. 28cm"
+              }
+            ],
+            "a": {
+              "_data-productid": "109",
+              "_data-packingunitid": "1",
+              "__text": "2,50 €"
+            }
+          },
+          {
+            "span": [
+              {
+                "_class": "name",
+                "__text": "Groß"
+              },
+              {
+                "_class": "desc",
+                "__text": "ca. 32cm"
+              }
+            ],
+            "a": {
+              "_data-productid": "109",
+              "_data-packingunitid": "2",
+              "__text": "3,00 €"
+            }
+          },
+          {
+            "_class": "dummy",
+            "__text": "nbsp;"
+          },
+          {
+            "_class": "dummy",
+            "__text": "nbsp;"
+          }
+        ],
+        "_class": "variants"
+      },
+      {
+        "h3": "Pizzabrot",
+        "_class": "title"
+      }
+    ]
+  },
+  {
+    "div": [
+      {
+        "_class": "number",
+        "__text": "42"
+      },
+      {
+        "div": [
+          {
+            "span": [
+              {
+                "_class": "name",
+                "__text": "Klein"
+              },
+              {
+                "_class": "desc",
+                "__text": "ca. 28cm"
+              }
+            ],
+            "a": {
+              "_data-productid": "110",
+              "_data-packingunitid": "1",
+              "__text": "3,50 €"
+            }
+          },
+          {
+            "span": [
+              {
+                "_class": "name",
+                "__text": "Groß"
+              },
+              {
+                "_class": "desc",
+                "__text": "ca. 32cm"
+              }
+            ],
+            "a": {
+              "_data-productid": "110",
+              "_data-packingunitid": "2",
+              "__text": "4,50 €"
+            }
+          },
+          {
+            "_class": "dummy",
+            "__text": "nbsp;"
+          },
+          {
+            "_class": "dummy",
+            "__text": "nbsp;"
+          }
+        ],
+        "_class": "variants"
+      },
+      {
+        "h3": "Pizzabrot",
+        "p": "mit Tomatensauce und Knoblauch",
+        "_class": "title"
+      }
+    ]
+  },
+  {
+    "div": [
+      {
+        "_class": "number",
+        "__text": "43"
+      },
+      {
+        "div": [
+          {
+            "span": [
+              {
+                "_class": "name",
+                "__text": "Klein"
+              },
+              {
+                "_class": "desc",
+                "__text": "ca. 28cm"
+              }
+            ],
+            "a": {
+              "_data-productid": "111",
+              "_data-packingunitid": "1",
+              "__text": "8,00 €"
+            }
+          },
+          {
+            "span": [
+              {
+                "_class": "name",
+                "__text": "Groß"
+              },
+              {
+                "_class": "desc",
+                "__text": "ca. 32cm"
+              }
+            ],
+            "a": {
+              "_data-productid": "111",
+              "_data-packingunitid": "2",
+              "__text": "9,50 €"
+            }
+          },
+          {
+            "span": [
+              {
+                "_class": "name",
+                "__text": "Family"
+              },
+              {
+                "_class": "desc",
+                "__text": "45x32cm"
+              }
+            ],
+            "a": {
+              "_data-productid": "111",
+              "_data-packingunitid": "3",
+              "__text": "18,00 €"
+            }
+          },
+          {
+            "span": [
+              {
+                "_class": "name",
+                "__text": "Party"
+              },
+              {
+                "_class": "desc",
+                "__text": "60x40cm"
+              }
+            ],
+            "a": {
+              "_data-productid": "111",
+              "_data-packingunitid": "4",
+              "__text": "22,00 €"
+            }
+          }
+        ],
+        "_class": "variants"
+      },
+      {
+        "h3": {
+          "span": [
+            {
+              "_class": "additives",
+              "__text": "1, 4, 5"
+            }
+          ],
+          "__text": "Pizza Mafia"
+        },
+        "p": "mit Vorderschinken, Hackfleisch, Hirtenkäse und grüne Peperoni, scharf",
+        "_class": "title"
+      }
+    ]
+  }
+]

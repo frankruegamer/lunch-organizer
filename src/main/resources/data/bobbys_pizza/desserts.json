@@ -1,0 +1,501 @@
+{
+   "section": {
+      "div": [
+         {
+            "div": [
+               {
+                  "div": [
+                     {
+                        "_class": "number"
+                     },
+                     {
+                        "div": [
+                           {
+                              "span": [
+                                 {
+                                    "_class": "name",
+                                    "__text": "100ml"
+                                 },
+                                 {
+                                    "_class": "desc"
+                                 },
+                                 {
+                                    "_class": "note",
+                                    "__text": "Grundpreis 30,00€ / Liter"
+                                 }
+                              ],
+                              "a": {
+                                 "_data-productid": "59",
+                                 "_data-packingunitid": "12",
+                                 "__text": "3,00 €"
+                              }
+                           },
+                           {
+                              "span": [
+                                 {
+                                    "_class": "name",
+                                    "__text": "500ml"
+                                 },
+                                 {
+                                    "_class": "desc"
+                                 },
+                                 {
+                                    "_class": "note",
+                                    "__text": "Grundpreis 14,98€ / Liter"
+                                 }
+                              ],
+                              "a": {
+                                 "_data-productid": "59",
+                                 "_data-packingunitid": "13",
+                                 "__text": "7,49 €"
+                              }
+                           }
+                        ],
+                        "_class": "variants"
+                     },
+                     {
+                        "h3": "Cookie Dough",
+                        "_class": "title"
+                     }
+                  ],
+                  "_class": "row even"
+               },
+               {
+                  "div": [
+                     {
+                        "_class": "number"
+                     },
+                     {
+                        "div": [
+                           {
+                              "span": [
+                                 {
+                                    "_class": "name",
+                                    "__text": "100ml"
+                                 },
+                                 {
+                                    "_class": "desc"
+                                 },
+                                 {
+                                    "_class": "note",
+                                    "__text": "Grundpreis 30,00€ / Liter"
+                                 }
+                              ],
+                              "a": {
+                                 "_data-productid": "60",
+                                 "_data-packingunitid": "12",
+                                 "__text": "3,00 €"
+                              }
+                           },
+                           {
+                              "span": [
+                                 {
+                                    "_class": "name",
+                                    "__text": "500ml"
+                                 },
+                                 {
+                                    "_class": "desc"
+                                 },
+                                 {
+                                    "_class": "note",
+                                    "__text": "Grundpreis 14,98€ / Liter"
+                                 }
+                              ],
+                              "a": {
+                                 "_data-productid": "60",
+                                 "_data-packingunitid": "13",
+                                 "__text": "7,49 €"
+                              }
+                           }
+                        ],
+                        "_class": "variants"
+                     },
+                     {
+                        "h3": "Chocolate Fudge Brownie",
+                        "_class": "title"
+                     }
+                  ],
+                  "_class": "row odd"
+               },
+               {
+                  "div": [
+                     {
+                        "_class": "number"
+                     },
+                     {
+                        "div": [
+                           {
+                              "span": [
+                                 {
+                                    "_class": "name",
+                                    "__text": "100ml"
+                                 },
+                                 {
+                                    "_class": "desc"
+                                 },
+                                 {
+                                    "_class": "note",
+                                    "__text": "Grundpreis 30,00€ / Liter"
+                                 }
+                              ],
+                              "a": {
+                                 "_data-productid": "61",
+                                 "_data-packingunitid": "12",
+                                 "__text": "3,00 €"
+                              }
+                           },
+                           {
+                              "span": [
+                                 {
+                                    "_class": "name",
+                                    "__text": "500ml"
+                                 },
+                                 {
+                                    "_class": "desc"
+                                 },
+                                 {
+                                    "_class": "note",
+                                    "__text": "Grundpreis 14,98€ / Liter"
+                                 }
+                              ],
+                              "a": {
+                                 "_data-productid": "61",
+                                 "_data-packingunitid": "13",
+                                 "__text": "7,49 €"
+                              }
+                           }
+                        ],
+                        "_class": "variants"
+                     },
+                     {
+                        "h3": "Strawberry Cheesecake",
+                        "_class": "title"
+                     }
+                  ],
+                  "_class": "row even"
+               },
+               {
+                  "div": [
+                     {
+                        "_class": "number"
+                     },
+                     {
+                        "div": [
+                           {
+                              "span": [
+                                 {
+                                    "_class": "name",
+                                    "__text": "100ml"
+                                 },
+                                 {
+                                    "_class": "desc"
+                                 },
+                                 {
+                                    "_class": "note",
+                                    "__text": "Grundpreis 30,00€ / Liter"
+                                 }
+                              ],
+                              "a": {
+                                 "_data-productid": "62",
+                                 "_data-packingunitid": "12",
+                                 "__text": "3,00 €"
+                              }
+                           },
+                           {
+                              "span": [
+                                 {
+                                    "_class": "name",
+                                    "__text": "500ml"
+                                 },
+                                 {
+                                    "_class": "desc"
+                                 },
+                                 {
+                                    "_class": "note",
+                                    "__text": "Grundpreis 14,98€ / Liter"
+                                 }
+                              ],
+                              "a": {
+                                 "_data-productid": "62",
+                                 "_data-packingunitid": "13",
+                                 "__text": "7,49 €"
+                              }
+                           }
+                        ],
+                        "_class": "variants"
+                     },
+                     {
+                        "h3": "Chunky Monkey",
+                        "_class": "title"
+                     }
+                  ],
+                  "_class": "row odd"
+               },
+               {
+                  "div": [
+                     {
+                        "_class": "number"
+                     },
+                     {
+                        "div": [
+                           {
+                              "span": [
+                                 {
+                                    "_class": "name",
+                                    "__text": "100ml"
+                                 },
+                                 {
+                                    "_class": "desc"
+                                 },
+                                 {
+                                    "_class": "note",
+                                    "__text": "Grundpreis 30,00€ / Liter"
+                                 }
+                              ],
+                              "a": {
+                                 "_data-productid": "63",
+                                 "_data-packingunitid": "12",
+                                 "__text": "3,00 €"
+                              }
+                           },
+                           {
+                              "span": [
+                                 {
+                                    "_class": "name",
+                                    "__text": "500ml"
+                                 },
+                                 {
+                                    "_class": "desc"
+                                 },
+                                 {
+                                    "_class": "note",
+                                    "__text": "Grundpreis 14,98€ / Liter"
+                                 }
+                              ],
+                              "a": {
+                                 "_data-productid": "63",
+                                 "_data-packingunitid": "13",
+                                 "__text": "7,49 €"
+                              }
+                           }
+                        ],
+                        "_class": "variants"
+                     },
+                     {
+                        "h3": "Peanut Butter Cup",
+                        "_class": "title"
+                     }
+                  ],
+                  "_class": "row even"
+               },
+               {
+                  "div": [
+                     {
+                        "_class": "number"
+                     },
+                     {
+                        "div": [
+                           {
+                              "span": [
+                                 {
+                                    "_class": "name",
+                                    "__text": "100ml"
+                                 },
+                                 {
+                                    "_class": "desc"
+                                 },
+                                 {
+                                    "_class": "note",
+                                    "__text": "Grundpreis 30,00€ / Liter"
+                                 }
+                              ],
+                              "a": {
+                                 "_data-productid": "193",
+                                 "_data-packingunitid": "12",
+                                 "__text": "3,00 €"
+                              }
+                           },
+                           {
+                              "span": [
+                                 {
+                                    "_class": "name",
+                                    "__text": "500ml"
+                                 },
+                                 {
+                                    "_class": "desc"
+                                 },
+                                 {
+                                    "_class": "note",
+                                    "__text": "Grundpreis 14,98€ / Liter"
+                                 }
+                              ],
+                              "a": {
+                                 "_data-productid": "193",
+                                 "_data-packingunitid": "13",
+                                 "__text": "7,49 €"
+                              }
+                           }
+                        ],
+                        "_class": "variants"
+                     },
+                     {
+                        "h3": "Caramel Chew Chew",
+                        "_class": "title"
+                     }
+                  ],
+                  "_class": "row odd"
+               },
+               {
+                  "div": [
+                     {
+                        "_class": "number"
+                     },
+                     {
+                        "div": [
+                           {
+                              "span": [
+                                 {
+                                    "_class": "name",
+                                    "__text": "500ml"
+                                 },
+                                 {
+                                    "_class": "desc"
+                                 },
+                                 {
+                                    "_class": "note",
+                                    "__text": "Grundpreis 14,98€ / Liter"
+                                 }
+                              ],
+                              "a": {
+                                 "_data-productid": "194",
+                                 "_data-packingunitid": "13",
+                                 "__text": "7,49 €"
+                              }
+                           }
+                        ],
+                        "_class": "variants"
+                     },
+                     {
+                        "h3": "Karamel Sutra",
+                        "_class": "title"
+                     }
+                  ],
+                  "_class": "row even"
+               },
+               {
+                  "div": [
+                     {
+                        "_class": "number"
+                     },
+                     {
+                        "div": [
+                           {
+                              "span": [
+                                 {
+                                    "_class": "name",
+                                    "__text": "900ml"
+                                 },
+                                 {
+                                    "_class": "desc"
+                                 },
+                                 {
+                                    "_class": "note",
+                                    "__text": "Grundpreis 8,33€ / Liter"
+                                 }
+                              ],
+                              "a": {
+                                 "_data-productid": "64",
+                                 "_data-packingunitid": "14",
+                                 "__text": "7,50 €"
+                              }
+                           }
+                        ],
+                        "_class": "variants"
+                     },
+                     {
+                        "h3": "Straciatella",
+                        "_class": "title"
+                     }
+                  ],
+                  "_class": "row even"
+               },
+               {
+                  "div": [
+                     {
+                        "_class": "number"
+                     },
+                     {
+                        "div": [
+                           {
+                              "span": [
+                                 {
+                                    "_class": "name",
+                                    "__text": "900ml"
+                                 },
+                                 {
+                                    "_class": "desc"
+                                 },
+                                 {
+                                    "_class": "note",
+                                    "__text": "Grundpreis 8,33€ / Liter"
+                                 }
+                              ],
+                              "a": {
+                                 "_data-productid": "65",
+                                 "_data-packingunitid": "14",
+                                 "__text": "7,50 €"
+                              }
+                           }
+                        ],
+                        "_class": "variants"
+                     },
+                     {
+                        "h3": "Bourbon Vanille",
+                        "_class": "title"
+                     }
+                  ],
+                  "_class": "row odd"
+               },
+               {
+                  "div": [
+                     {
+                        "_class": "number"
+                     },
+                     {
+                        "div": [
+                           {
+                              "span": [
+                                 {
+                                    "_class": "name",
+                                    "__text": "900ml"
+                                 },
+                                 {
+                                    "_class": "desc"
+                                 },
+                                 {
+                                    "_class": "note",
+                                    "__text": "Grundpreis 8,33€ / Liter"
+                                 }
+                              ],
+                              "a": {
+                                 "_data-productid": "66",
+                                 "_data-packingunitid": "14",
+                                 "__text": "7,50 €"
+                              }
+                           }
+                        ],
+                        "_class": "variants"
+                     },
+                     {
+                        "h3": "Maple Walnuts",
+                        "_class": "title"
+                     }
+                  ],
+                  "_class": "row even"
+               }
+            ],
+            "_class": "rows"
+         }
+      ]
+   }
+}

@@ -1,0 +1,437 @@
+{
+   "section": {
+      "div": [
+         {
+            "div": [
+               {
+                  "div": [
+                     {
+                        "_class": "number"
+                     },
+                     {
+                        "div": [
+                           {
+                              "a": {
+                                 "_data-productid": "27",
+                                 "__text": "2,20 €"
+                              },
+                              "span": [
+                                 {
+                                    "_class": "note",
+                                    "__text": "Grundpreis 2,05€ / Liter"
+                                 },
+                                 {
+                                    "_class": "note",
+                                    "__text": "incl. 15ct Pfand"
+                                 }
+                              ]
+                           }
+                        ],
+                        "_class": "variants"
+                     },
+                     {
+                        "h3": "Coca Cola",
+                        "p": "1,0 Liter",
+                        "_class": "title"
+                     }
+                  ],
+                  "_class": "row even"
+               },
+               {
+                  "div": [
+                     {
+                        "_class": "number"
+                     },
+                     {
+                        "div": [
+                           {
+                              "a": {
+                                 "_data-productid": "28",
+                                 "__text": "2,20 €"
+                              },
+                              "span": [
+                                 {
+                                    "_class": "note",
+                                    "__text": "Grundpreis 2,05€ / Liter"
+                                 },
+                                 {
+                                    "_class": "note",
+                                    "__text": "incl. 15ct Pfand"
+                                 }
+                              ]
+                           }
+                        ],
+                        "_class": "variants"
+                     },
+                     {
+                        "h3": "Coca Cola light",
+                        "p": "1,0 Liter",
+                        "_class": "title"
+                     }
+                  ],
+                  "_class": "row odd"
+               },
+               {
+                  "div": [
+                     {
+                        "_class": "number"
+                     },
+                     {
+                        "div": [
+                           {
+                              "a": {
+                                 "_data-productid": "29",
+                                 "__text": "2,20 €"
+                              },
+                              "span": [
+                                 {
+                                    "_class": "note",
+                                    "__text": "Grundpreis 2,05€ / Liter"
+                                 },
+                                 {
+                                    "_class": "note",
+                                    "__text": "incl. 15ct Pfand"
+                                 }
+                              ]
+                           }
+                        ],
+                        "_class": "variants"
+                     },
+                     {
+                        "h3": "Fanta",
+                        "p": "1,0 Liter",
+                        "_class": "title"
+                     }
+                  ],
+                  "_class": "row even"
+               },
+               {
+                  "div": [
+                     {
+                        "_class": "number"
+                     },
+                     {
+                        "div": [
+                           {
+                              "a": {
+                                 "_data-productid": "30",
+                                 "__text": "2,20 €"
+                              },
+                              "span": [
+                                 {
+                                    "_class": "note",
+                                    "__text": "Grundpreis 2,05€ / Liter"
+                                 },
+                                 {
+                                    "_class": "note",
+                                    "__text": "incl. 15ct Pfand"
+                                 }
+                              ]
+                           }
+                        ],
+                        "_class": "variants"
+                     },
+                     {
+                        "h3": "Sprite",
+                        "p": "1,0 Liter",
+                        "_class": "title"
+                     }
+                  ],
+                  "_class": "row odd"
+               },
+               {
+                  "div": [
+                     {
+                        "_class": "number"
+                     },
+                     {
+                        "div": [
+                           {
+                              "a": {
+                                 "_data-productid": "31",
+                                 "__text": "2,20 €"
+                              },
+                              "span": [
+                                 {
+                                    "_class": "note",
+                                    "__text": "Grundpreis 2,05€ / Liter"
+                                 },
+                                 {
+                                    "_class": "note",
+                                    "__text": "incl. 15ct Pfand"
+                                 }
+                              ]
+                           }
+                        ],
+                        "_class": "variants"
+                     },
+                     {
+                        "h3": "Mezzo Mix",
+                        "p": "1,0 Liter",
+                        "_class": "title"
+                     }
+                  ],
+                  "_class": "row even"
+               },
+               {
+                  "div": [
+                     {
+                        "_class": "number"
+                     },
+                     {
+                        "div": [
+                           {
+                              "a": {
+                                 "_data-productid": "32",
+                                 "__text": "2,20 €"
+                              },
+                              "span": [
+                                 {
+                                    "_class": "note",
+                                    "__text": "Grundpreis 2,05€ / Liter"
+                                 },
+                                 {
+                                    "_class": "note",
+                                    "__text": "incl. 15ct Pfand"
+                                 }
+                              ]
+                           }
+                        ],
+                        "_class": "variants"
+                     },
+                     {
+                        "h3": "Wasser",
+                        "p": "1,0 Liter",
+                        "_class": "title"
+                     }
+                  ],
+                  "_class": "row odd"
+               },
+               {
+                  "div": [
+                     {
+                        "_class": "number"
+                     },
+                     {
+                        "div": [
+                           {
+                              "a": {
+                                 "_data-productid": "24",
+                                 "__text": "2,00 €"
+                              },
+                              "span": [
+                                 {
+                                    "_class": "note",
+                                    "__text": "Grundpreis 3,84€ / Liter"
+                                 },
+                                 {
+                                    "_class": "note",
+                                    "__text": "incl. 8ct Pfand"
+                                 }
+                              ]
+                           }
+                        ],
+                        "_class": "variants"
+                     },
+                     {
+                        "h3": "Kauzen Pils",
+                        "p": "0,5 Liter",
+                        "_class": "title"
+                     }
+                  ],
+                  "_class": "row even"
+               },
+               {
+                  "div": [
+                     {
+                        "_class": "number"
+                     },
+                     {
+                        "div": [
+                           {
+                              "a": {
+                                 "_data-productid": "25",
+                                 "__text": "2,00 €"
+                              },
+                              "span": [
+                                 {
+                                    "_class": "note",
+                                    "__text": "Grundpreis 3,84€ / Liter"
+                                 },
+                                 {
+                                    "_class": "note",
+                                    "__text": "incl. 8ct Pfand"
+                                 }
+                              ]
+                           }
+                        ],
+                        "_class": "variants"
+                     },
+                     {
+                        "h3": "Kauzen Hefeweizen",
+                        "p": "0,5 Liter",
+                        "_class": "title"
+                     }
+                  ],
+                  "_class": "row odd"
+               },
+               {
+                  "div": [
+                     {
+                        "_class": "number"
+                     },
+                     {
+                        "div": [
+                           {
+                              "a": {
+                                 "_data-productid": "26",
+                                 "__text": "1,80 €"
+                              },
+                              "span": [
+                                 {
+                                    "_class": "note",
+                                    "__text": "Grundpreis 5,73€ / Liter"
+                                 },
+                                 {
+                                    "_class": "note",
+                                    "__text": "incl. 8ct Pfand"
+                                 }
+                              ]
+                           }
+                        ],
+                        "_class": "variants"
+                     },
+                     {
+                        "h3": "Käuzle Kultbier",
+                        "p": "0,3 Liter",
+                        "_class": "title"
+                     }
+                  ],
+                  "_class": "row even"
+               },
+               {
+                  "div": [
+                     {
+                        "_class": "number"
+                     },
+                     {
+                        "div": [
+                           {
+                              "a": {
+                                 "_data-productid": "20",
+                                 "__text": "6,50 €"
+                              },
+                              "span": [
+                                 {
+                                    "_class": "note",
+                                    "__text": "Grundpreis 9,29€ / Liter"
+                                 }
+                              ]
+                           }
+                        ],
+                        "_class": "variants"
+                     },
+                     {
+                        "h3": "Frascati Weißwein",
+                        "p": "trocken 0,7 Liter",
+                        "_class": "title"
+                     }
+                  ],
+                  "_class": "row even"
+               },
+               {
+                  "div": [
+                     {
+                        "_class": "number"
+                     },
+                     {
+                        "div": [
+                           {
+                              "a": {
+                                 "_data-productid": "21",
+                                 "__text": "6,50 €"
+                              },
+                              "span": [
+                                 {
+                                    "_class": "note",
+                                    "__text": "Grundpreis 9,29€ / Liter"
+                                 }
+                              ]
+                           }
+                        ],
+                        "_class": "variants"
+                     },
+                     {
+                        "h3": "Chianti Rotwein",
+                        "p": "trocken 0,7 Liter",
+                        "_class": "title"
+                     }
+                  ],
+                  "_class": "row odd"
+               },
+               {
+                  "div": [
+                     {
+                        "_class": "number"
+                     },
+                     {
+                        "div": [
+                           {
+                              "a": {
+                                 "_data-productid": "22",
+                                 "__text": "6,50 €"
+                              },
+                              "span": [
+                                 {
+                                    "_class": "note",
+                                    "__text": "Grundpreis 9,29€ / Liter"
+                                 }
+                              ]
+                           }
+                        ],
+                        "_class": "variants"
+                     },
+                     {
+                        "h3": "Bardolina Rotwein",
+                        "p": "trocken 0,7 Liter",
+                        "_class": "title"
+                     }
+                  ],
+                  "_class": "row even"
+               },
+               {
+                  "div": [
+                     {
+                        "_class": "number"
+                     },
+                     {
+                        "div": [
+                           {
+                              "a": {
+                                 "_data-productid": "23",
+                                 "__text": "6,50 €"
+                              },
+                              "span": [
+                                 {
+                                    "_class": "note",
+                                    "__text": "Grundpreis 9,29€ / Liter"
+                                 }
+                              ]
+                           }
+                        ],
+                        "_class": "variants"
+                     },
+                     {
+                        "h3": "Lambrusco Rotwein",
+                        "p": "süß 0,7 Liter",
+                        "_class": "title"
+                     }
+                  ],
+                  "_class": "row odd"
+               }
+            ],
+            "_class": "rows"
+         }
+      ]
+   }
+}

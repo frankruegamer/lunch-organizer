@@ -1,0 +1,220 @@
+<section>
+  <div class="rows">
+    <div class="row even">
+      <div class="number">80
+      </div>
+      <div class="variants">
+        <div>
+          <a data-productid="135">8,90 €
+          </a>
+        </div>
+      </div>
+      <div class="title">
+        <h3>
+          Schnitzel Wiener Art    			 	        			     
+        </h3>
+        <p>mit Zitrone
+        </p>
+      </div>
+    </div>
+    <div class="row odd">
+      <div class="number">81
+      </div>
+      <div class="variants">
+        <div>
+          <a data-productid="136">9,90 €
+          </a>
+        </div>
+      </div>
+      <div class="title">
+        <h3>
+          Rahmschnitzel    			 	        			     
+        </h3>
+        <p>mit Rahmsauce
+        </p>
+      </div>
+    </div>
+    <div class="row even">
+      <div class="number">82
+      </div>
+      <div class="variants">
+        <div>
+          <a data-productid="137">9,90 €
+          </a>
+        </div>
+      </div>
+      <div class="title">
+        <h3>
+          Jägerschnitzel    			 	        			     
+        </h3>
+        <p>mit Champignons und Jägersauce
+        </p>
+      </div>
+    </div>
+    <div class="row odd">
+      <div class="number">83
+      </div>
+      <div class="variants">
+        <div>
+          <a data-productid="138">9,90 €
+          </a>
+        </div>
+      </div>
+      <div class="title">
+        <h3>
+          Schnitzel Paprika    			 	        			     
+        </h3>
+        <p>mit bunter Paprika-Sauce
+        </p>
+      </div>
+    </div>
+    <div class="row even">
+      <div class="number">84
+      </div>
+      <div class="variants">
+        <div>
+          <a data-productid="139">9,90 €
+          </a>
+        </div>
+      </div>
+      <div class="title">
+        <h3>
+          Schnitzel al Forno    			 	        			     		
+          <span class="additives">
+            1, 4, 5    			     		
+          </span>
+        </h3>
+        <p>mit Hackfleischsauce, Schinken und mit Käse überbacken
+        </p>
+      </div>
+    </div>
+    <div class="row odd">
+      <div class="number">85
+      </div>
+      <div class="variants">
+        <div>
+          <a data-productid="140">9,90 €
+          </a>
+        </div>
+      </div>
+      <div class="title">
+        <h3>
+          Broccoli-Schnitzel    			 	        			     
+        </h3>
+        <p>mit Sahnesauce, Broccoli und mit Käse überbacken
+        </p>
+      </div>
+    </div>
+    <div class="row even">
+      <div class="number">86
+      </div>
+      <div class="variants">
+        <div>
+          <a data-productid="141">9,90 €
+          </a>
+        </div>
+      </div>
+      <div class="title">
+        <h3>
+          Schnitzel Hawaii    			 	        			     		
+          <span class="additives">
+            1, 4, 5    			     		
+          </span>
+        </h3>
+        <p>mit Sahnesauce, Schinken, Ananas und mit Käse überbacken
+        </p>
+      </div>
+    </div>
+    <div class="row odd">
+      <div class="number">87
+      </div>
+      <div class="variants">
+        <div>
+          <a data-productid="142">9,90 €
+          </a>
+        </div>
+      </div>
+      <div class="title">
+        <h3>
+          Schnitzel Bobby's    			 	        			     		
+          <span class="additives">
+            1, 4, 5    			     		
+          </span>
+        </h3>
+        <p>mit Sahnesauce, Schinken, Champignons und mit Käse überbacken
+        </p>
+      </div>
+    </div>
+    <div class="row even">
+      <div class="number">88
+      </div>
+      <div class="variants">
+        <div>
+          <a data-productid="143">9,90 €
+          </a>
+        </div>
+      </div>
+      <div class="title">
+        <h3>
+          Gorgonzola-Schnitzel    			 	        			     
+        </h3>
+        <p>mit Sahne-Gorgonzolasauce
+        </p>
+      </div>
+    </div>
+    <div class="row odd">
+      <div class="number">89
+      </div>
+      <div class="variants">
+        <div>
+          <a data-productid="144">9,90 €
+          </a>
+        </div>
+      </div>
+      <div class="title">
+        <h3>
+          Pfeffer-Schnitzel    			 	        			     
+        </h3>
+        <p>mit Bratensauce und grünem Pfeffer
+        </p>
+      </div>
+    </div>
+    <div class="row even">
+      <div class="number">90
+      </div>
+      <div class="variants">
+        <div>
+          <a data-productid="145">10,90 €
+          </a>
+        </div>
+      </div>
+      <div class="title">
+        <h3>
+          Cordon Bleu    			 	        			     		
+          <span class="additives">
+            1, 4, 5    			     		
+          </span>
+        </h3>
+        <p>mit Vorderschinken und Käse gefüllt, dazu Sahnesauce oder Zitrone
+        </p>
+      </div>
+    </div>
+    <div class="row odd">
+      <div class="number">92
+      </div>
+      <div class="variants">
+        <div>
+          <a data-productid="147">9,50 €
+          </a>
+        </div>
+      </div>
+      <div class="title">
+        <h3>
+          Gyros    			 	        			     
+        </h3>
+        <p>mit Tzaziki und einem Krautsalat
+        </p>
+      </div>
+    </div>
+  </div>
+</section>

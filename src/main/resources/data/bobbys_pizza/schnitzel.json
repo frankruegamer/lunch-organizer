@@ -1,0 +1,335 @@
+{
+   "section": {
+      "div": [
+         {
+            "div": [
+               {
+                  "div": [
+                     {
+                        "_class": "number",
+                        "__text": "80"
+                     },
+                     {
+                        "div": [
+                           {
+                              "a": {
+                                 "_data-productid": "135",
+                                 "__text": "8,90 €"
+                              }
+                           }
+                        ],
+                        "_class": "variants"
+                     },
+                     {
+                        "h3": "Schnitzel Wiener Art",
+                        "p": "mit Zitrone",
+                        "_class": "title"
+                     }
+                  ],
+                  "_class": "row even"
+               },
+               {
+                  "div": [
+                     {
+                        "_class": "number",
+                        "__text": "81"
+                     },
+                     {
+                        "div": [
+                           {
+                              "a": {
+                                 "_data-productid": "136",
+                                 "__text": "9,90 €"
+                              }
+                           }
+                        ],
+                        "_class": "variants"
+                     },
+                     {
+                        "h3": "Rahmschnitzel",
+                        "p": "mit Rahmsauce",
+                        "_class": "title"
+                     }
+                  ],
+                  "_class": "row odd"
+               },
+               {
+                  "div": [
+                     {
+                        "_class": "number",
+                        "__text": "82"
+                     },
+                     {
+                        "div": [
+                           {
+                              "a": {
+                                 "_data-productid": "137",
+                                 "__text": "9,90 €"
+                              }
+                           }
+                        ],
+                        "_class": "variants"
+                     },
+                     {
+                        "h3": "Jägerschnitzel",
+                        "p": "mit Champignons und Jägersauce",
+                        "_class": "title"
+                     }
+                  ],
+                  "_class": "row even"
+               },
+               {
+                  "div": [
+                     {
+                        "_class": "number",
+                        "__text": "83"
+                     },
+                     {
+                        "div": [
+                           {
+                              "a": {
+                                 "_data-productid": "138",
+                                 "__text": "9,90 €"
+                              }
+                           }
+                        ],
+                        "_class": "variants"
+                     },
+                     {
+                        "h3": "Schnitzel Paprika",
+                        "p": "mit bunter Paprika-Sauce",
+                        "_class": "title"
+                     }
+                  ],
+                  "_class": "row odd"
+               },
+               {
+                  "div": [
+                     {
+                        "_class": "number",
+                        "__text": "84"
+                     },
+                     {
+                        "div": [
+                           {
+                              "a": {
+                                 "_data-productid": "139",
+                                 "__text": "9,90 €"
+                              }
+                           }
+                        ],
+                        "_class": "variants"
+                     },
+                     {
+                        "h3": {
+                           "span": {
+                              "_class": "additives",
+                              "__text": "1, 4, 5"
+                           },
+                           "__text": "Schnitzel al Forno"
+                        },
+                        "p": "mit Hackfleischsauce, Schinken und mit Käse überbacken",
+                        "_class": "title"
+                     }
+                  ],
+                  "_class": "row even"
+               },
+               {
+                  "div": [
+                     {
+                        "_class": "number",
+                        "__text": "85"
+                     },
+                     {
+                        "div": [
+                           {
+                              "a": {
+                                 "_data-productid": "140",
+                                 "__text": "9,90 €"
+                              }
+                           }
+                        ],
+                        "_class": "variants"
+                     },
+                     {
+                        "h3": "Broccoli-Schnitzel",
+                        "p": "mit Sahnesauce, Broccoli und mit Käse überbacken",
+                        "_class": "title"
+                     }
+                  ],
+                  "_class": "row odd"
+               },
+               {
+                  "div": [
+                     {
+                        "_class": "number",
+                        "__text": "86"
+                     },
+                     {
+                        "div": [
+                           {
+                              "a": {
+                                 "_data-productid": "141",
+                                 "__text": "9,90 €"
+                              }
+                           }
+                        ],
+                        "_class": "variants"
+                     },
+                     {
+                        "h3": {
+                           "span": {
+                              "_class": "additives",
+                              "__text": "1, 4, 5"
+                           },
+                           "__text": "Schnitzel Hawaii"
+                        },
+                        "p": "mit Sahnesauce, Schinken, Ananas und mit Käse überbacken",
+                        "_class": "title"
+                     }
+                  ],
+                  "_class": "row even"
+               },
+               {
+                  "div": [
+                     {
+                        "_class": "number",
+                        "__text": "87"
+                     },
+                     {
+                        "div": [
+                           {
+                              "a": {
+                                 "_data-productid": "142",
+                                 "__text": "9,90 €"
+                              }
+                           }
+                        ],
+                        "_class": "variants"
+                     },
+                     {
+                        "h3": {
+                           "span": {
+                              "_class": "additives",
+                              "__text": "1, 4, 5"
+                           },
+                           "__text": "Schnitzel Bobby's"
+                        },
+                        "p": "mit Sahnesauce, Schinken, Champignons und mit Käse überbacken",
+                        "_class": "title"
+                     }
+                  ],
+                  "_class": "row odd"
+               },
+               {
+                  "div": [
+                     {
+                        "_class": "number",
+                        "__text": "88"
+                     },
+                     {
+                        "div": [
+                           {
+                              "a": {
+                                 "_data-productid": "143",
+                                 "__text": "9,90 €"
+                              }
+                           }
+                        ],
+                        "_class": "variants"
+                     },
+                     {
+                        "h3": "Gorgonzola-Schnitzel",
+                        "p": "mit Sahne-Gorgonzolasauce",
+                        "_class": "title"
+                     }
+                  ],
+                  "_class": "row even"
+               },
+               {
+                  "div": [
+                     {
+                        "_class": "number",
+                        "__text": "89"
+                     },
+                     {
+                        "div": [
+                           {
+                              "a": {
+                                 "_data-productid": "144",
+                                 "__text": "9,90 €"
+                              }
+                           }
+                        ],
+                        "_class": "variants"
+                     },
+                     {
+                        "h3": "Pfeffer-Schnitzel",
+                        "p": "mit Bratensauce und grünem Pfeffer",
+                        "_class": "title"
+                     }
+                  ],
+                  "_class": "row odd"
+               },
+               {
+                  "div": [
+                     {
+                        "_class": "number",
+                        "__text": "90"
+                     },
+                     {
+                        "div": [
+                           {
+                              "a": {
+                                 "_data-productid": "145",
+                                 "__text": "10,90 €"
+                              }
+                           }
+                        ],
+                        "_class": "variants"
+                     },
+                     {
+                        "h3": {
+                           "span": {
+                              "_class": "additives",
+                              "__text": "1, 4, 5"
+                           },
+                           "__text": "Cordon Bleu"
+                        },
+                        "p": "mit Vorderschinken und Käse gefüllt, dazu Sahnesauce oder Zitrone",
+                        "_class": "title"
+                     }
+                  ],
+                  "_class": "row even"
+               },
+               {
+                  "div": [
+                     {
+                        "_class": "number",
+                        "__text": "92"
+                     },
+                     {
+                        "div": [
+                           {
+                              "a": {
+                                 "_data-productid": "147",
+                                 "__text": "9,50 €"
+                              }
+                           }
+                        ],
+                        "_class": "variants"
+                     },
+                     {
+                        "h3": "Gyros",
+                        "p": "mit Tzaziki und einem Krautsalat",
+                        "_class": "title"
+                     }
+                  ],
+                  "_class": "row odd"
+               }
+            ],
+            "_class": "rows"
+         }
+      ]
+   }
+}

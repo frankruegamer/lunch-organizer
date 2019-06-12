@@ -1,0 +1,269 @@
+<section>
+  <div class="rows">
+    <div class="row even">
+      <div class="number">
+      </div>
+      <div class="variants">
+        <div>
+          <a data-productid="27">2,20 €
+          </a>
+          <span class="note">Grundpreis 2,05€ / Liter
+          </span>
+          <span class="note">incl. 15ct Pfand
+          </span>
+        </div>
+      </div>
+      <div class="title">
+        <h3>
+          Coca Cola    			 	        			     
+        </h3>
+        <p>1,0 Liter
+        </p>
+      </div>
+    </div>
+    <div class="row odd">
+      <div class="number">
+      </div>
+      <div class="variants">
+        <div>
+          <a data-productid="28">2,20 €
+          </a>
+          <span class="note">Grundpreis 2,05€ / Liter
+          </span>
+          <span class="note">incl. 15ct Pfand
+          </span>
+        </div>
+      </div>
+      <div class="title">
+        <h3>
+          Coca Cola light    			 	        			     
+        </h3>
+        <p>1,0 Liter
+        </p>
+      </div>
+    </div>
+    <div class="row even">
+      <div class="number">
+      </div>
+      <div class="variants">
+        <div>
+          <a data-productid="29">2,20 €
+          </a>
+          <span class="note">Grundpreis 2,05€ / Liter
+          </span>
+          <span class="note">incl. 15ct Pfand
+          </span>
+        </div>
+      </div>
+      <div class="title">
+        <h3>
+          Fanta    			 	        			     
+        </h3>
+        <p>1,0 Liter
+        </p>
+      </div>
+    </div>
+    <div class="row odd">
+      <div class="number">
+      </div>
+      <div class="variants">
+        <div>
+          <a data-productid="30">2,20 €
+          </a>
+          <span class="note">Grundpreis 2,05€ / Liter
+          </span>
+          <span class="note">incl. 15ct Pfand
+          </span>
+        </div>
+      </div>
+      <div class="title">
+        <h3>
+          Sprite    			 	        			     
+        </h3>
+        <p>1,0 Liter
+        </p>
+      </div>
+    </div>
+    <div class="row even">
+      <div class="number">
+      </div>
+      <div class="variants">
+        <div>
+          <a data-productid="31">2,20 €
+          </a>
+          <span class="note">Grundpreis 2,05€ / Liter
+          </span>
+          <span class="note">incl. 15ct Pfand
+          </span>
+        </div>
+      </div>
+      <div class="title">
+        <h3>
+          Mezzo Mix    			 	        			     
+        </h3>
+        <p>1,0 Liter
+        </p>
+      </div>
+    </div>
+    <div class="row odd">
+      <div class="number">
+      </div>
+      <div class="variants">
+        <div>
+          <a data-productid="32">2,20 €
+          </a>
+          <span class="note">Grundpreis 2,05€ / Liter
+          </span>
+          <span class="note">incl. 15ct Pfand
+          </span>
+        </div>
+      </div>
+      <div class="title">
+        <h3>
+          Wasser    			 	        			     
+        </h3>
+        <p>1,0 Liter
+        </p>
+      </div>
+    </div>
+    <div class="row even">
+      <div class="number">
+      </div>
+      <div class="variants">
+        <div>
+          <a data-productid="24">2,00 €
+          </a>
+          <span class="note">Grundpreis 3,84€ / Liter
+          </span>
+          <span class="note">incl. 8ct Pfand
+          </span>
+        </div>
+      </div>
+      <div class="title">
+        <h3>
+          Kauzen Pils    			 	        			     
+        </h3>
+        <p>0,5 Liter
+        </p>
+      </div>
+    </div>
+    <div class="row odd">
+      <div class="number">
+      </div>
+      <div class="variants">
+        <div>
+          <a data-productid="25">2,00 €
+          </a>
+          <span class="note">Grundpreis 3,84€ / Liter
+          </span>
+          <span class="note">incl. 8ct Pfand
+          </span>
+        </div>
+      </div>
+      <div class="title">
+        <h3>
+          Kauzen Hefeweizen    			 	        			     
+        </h3>
+        <p>0,5 Liter
+        </p>
+      </div>
+    </div>
+    <div class="row even">
+      <div class="number">
+      </div>
+      <div class="variants">
+        <div>
+          <a data-productid="26">1,80 €
+          </a>
+          <span class="note">Grundpreis 5,73€ / Liter
+          </span>
+          <span class="note">incl. 8ct Pfand
+          </span>
+        </div>
+      </div>
+      <div class="title">
+        <h3>
+          Käuzle Kultbier    			 	        			     
+        </h3>
+        <p>0,3 Liter
+        </p>
+      </div>
+    </div>
+    <div class="row even">
+      <div class="number">
+      </div>
+      <div class="variants">
+        <div>
+          <a data-productid="20">6,50 €
+          </a>
+          <span class="note">Grundpreis 9,29€ / Liter
+          </span>
+        </div>
+      </div>
+      <div class="title">
+        <h3>
+          Frascati Weißwein    			 	        			     
+        </h3>
+        <p>trocken 0,7 Liter
+        </p>
+      </div>
+    </div>
+    <div class="row odd">
+      <div class="number">
+      </div>
+      <div class="variants">
+        <div>
+          <a data-productid="21">6,50 €
+          </a>
+          <span class="note">Grundpreis 9,29€ / Liter
+          </span>
+        </div>
+      </div>
+      <div class="title">
+        <h3>
+          Chianti Rotwein    			 	        			     
+        </h3>
+        <p>trocken 0,7 Liter
+        </p>
+      </div>
+    </div>
+    <div class="row even">
+      <div class="number">
+      </div>
+      <div class="variants">
+        <div>
+          <a data-productid="22">6,50 €
+          </a>
+          <span class="note">Grundpreis 9,29€ / Liter
+          </span>
+        </div>
+      </div>
+      <div class="title">
+        <h3>
+          Bardolina Rotwein    			 	        			     
+        </h3>
+        <p>trocken 0,7 Liter
+        </p>
+      </div>
+    </div>
+    <div class="row odd">
+      <div class="number">
+      </div>
+      <div class="variants">
+        <div>
+          <a data-productid="23">6,50 €
+          </a>
+          <span class="note">Grundpreis 9,29€ / Liter
+          </span>
+        </div>
+      </div>
+      <div class="title">
+        <h3>
+          Lambrusco Rotwein    			 	        			     
+        </h3>
+        <p>süß 0,7 Liter
+        </p>
+      </div>
+    </div>
+  </div>
+</section>

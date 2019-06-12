@@ -1,0 +1,106 @@
+<section>
+  <div class="rows">
+    <div class="row even">
+      <div class="number">160
+      </div>
+      <div class="variants">
+        <div>
+          <a data-productid="14">8,90 €
+          </a>
+        </div>
+      </div>
+      <div class="title">
+        <h3>
+          Broccoli-Auflauf    			 	        			     
+        </h3>
+        <p>mit Kartoffeln, Sahnesauce, Broccoli, Champignons, Vorderschinken und mit Käse überbacken
+        </p>
+      </div>
+    </div>
+    <div class="row odd">
+      <div class="number">161
+      </div>
+      <div class="variants">
+        <div>
+          <a data-productid="15">8,90 €
+          </a>
+        </div>
+      </div>
+      <div class="title">
+        <h3>
+          Gemüse-Auflauf    			 	        			     
+        </h3>
+        <p>mit Kartoffeln, Sahnesauce, versch. Gemüse und mit Käse überbacken
+        </p>
+      </div>
+    </div>
+    <div class="row even">
+      <div class="number">162
+      </div>
+      <div class="variants">
+        <div>
+          <a data-productid="16">8,90 €
+          </a>
+        </div>
+      </div>
+      <div class="title">
+        <h3>
+          Blumenkohl-Auflauf    			 	        			     
+        </h3>
+        <p>mit Kartoffeln, Sahnesauce, frischem Blumenkohl, Vorderschinken, Hackfleisch und mit Käse überbacken
+        </p>
+      </div>
+    </div>
+    <div class="row odd">
+      <div class="number">163
+      </div>
+      <div class="variants">
+        <div>
+          <a data-productid="17">8,90 €
+          </a>
+        </div>
+      </div>
+      <div class="title">
+        <h3>
+          Zuccini-Auflauf    			 	        			     
+        </h3>
+        <p>mit Kartoffeln, Sahnesauce, Zuccini, Tomaten und mit Käse überbacken
+        </p>
+      </div>
+    </div>
+    <div class="row even">
+      <div class="number">164
+      </div>
+      <div class="variants">
+        <div>
+          <a data-productid="18">8,90 €
+          </a>
+        </div>
+      </div>
+      <div class="title">
+        <h3>
+          Kartoffel-Hackfleisch-Auflauf    			 	        			     
+        </h3>
+        <p>mit Kartoffeln, Sahnesauce, Hackfleisch, Schinken und mit Käse überbacken
+        </p>
+      </div>
+    </div>
+    <div class="row odd">
+      <div class="number">165
+      </div>
+      <div class="variants">
+        <div>
+          <a data-productid="19">8,90 €
+          </a>
+        </div>
+      </div>
+      <div class="title">
+        <h3>
+          Hähnchen-Gemüse-Auflauf    			 	        			     
+        </h3>
+        <p>mit Kartoffeln, Sahnesauce, Hähnchen, versch. Gemüse und mit Käse überbacken
+        </p>
+      </div>
+    </div>
+  </div>
+</section>

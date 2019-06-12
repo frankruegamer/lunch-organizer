@@ -1,0 +1,274 @@
+<section>
+  <div class="rows">
+    <div class="row even">
+      <div class="number">
+      </div>
+      <div class="variants">
+        <div>    
+          <span class="name">100ml
+          </span>
+          <span class="desc">
+          </span>
+          <a data-productid="59" data-packingunitid="12">3,00 €
+          </a>
+          <span class="note">Grundpreis 30,00€ / Liter
+          </span>
+        </div>
+        <div>    
+          <span class="name">500ml
+          </span>
+          <span class="desc">
+          </span>
+          <a data-productid="59" data-packingunitid="13">7,49 €
+          </a>
+          <span class="note">Grundpreis 14,98€ / Liter
+          </span>
+        </div>
+      </div>
+      <div class="title">
+        <h3>
+          Cookie Dough    			 	        			     
+        </h3>
+      </div>
+    </div>
+    <div class="row odd">
+      <div class="number">
+      </div>
+      <div class="variants">
+        <div>    
+          <span class="name">100ml
+          </span>
+          <span class="desc">
+          </span>
+          <a data-productid="60" data-packingunitid="12">3,00 €
+          </a>
+          <span class="note">Grundpreis 30,00€ / Liter
+          </span>
+        </div>
+        <div>    
+          <span class="name">500ml
+          </span>
+          <span class="desc">
+          </span>
+          <a data-productid="60" data-packingunitid="13">7,49 €
+          </a>
+          <span class="note">Grundpreis 14,98€ / Liter
+          </span>
+        </div>
+      </div>
+      <div class="title">
+        <h3>
+          Chocolate Fudge Brownie    			 	        			     
+        </h3>
+      </div>
+    </div>
+    <div class="row even">
+      <div class="number">
+      </div>
+      <div class="variants">
+        <div>    
+          <span class="name">100ml
+          </span>
+          <span class="desc">
+          </span>
+          <a data-productid="61" data-packingunitid="12">3,00 €
+          </a>
+          <span class="note">Grundpreis 30,00€ / Liter
+          </span>
+        </div>
+        <div>    
+          <span class="name">500ml
+          </span>
+          <span class="desc">
+          </span>
+          <a data-productid="61" data-packingunitid="13">7,49 €
+          </a>
+          <span class="note">Grundpreis 14,98€ / Liter
+          </span>
+        </div>
+      </div>
+      <div class="title">
+        <h3>
+          Strawberry Cheesecake    			 	        			     
+        </h3>
+      </div>
+    </div>
+    <div class="row odd">
+      <div class="number">
+      </div>
+      <div class="variants">
+        <div>    
+          <span class="name">100ml
+          </span>
+          <span class="desc">
+          </span>
+          <a data-productid="62" data-packingunitid="12">3,00 €
+          </a>
+          <span class="note">Grundpreis 30,00€ / Liter
+          </span>
+        </div>
+        <div>    
+          <span class="name">500ml
+          </span>
+          <span class="desc">
+          </span>
+          <a data-productid="62" data-packingunitid="13">7,49 €
+          </a>
+          <span class="note">Grundpreis 14,98€ / Liter
+          </span>
+        </div>
+      </div>
+      <div class="title">
+        <h3>
+          Chunky Monkey    			 	        			     
+        </h3>
+      </div>
+    </div>
+    <div class="row even">
+      <div class="number">
+      </div>
+      <div class="variants">
+        <div>    
+          <span class="name">100ml
+          </span>
+          <span class="desc">
+          </span>
+          <a data-productid="63" data-packingunitid="12">3,00 €
+          </a>
+          <span class="note">Grundpreis 30,00€ / Liter
+          </span>
+        </div>
+        <div>    
+          <span class="name">500ml
+          </span>
+          <span class="desc">
+          </span>
+          <a data-productid="63" data-packingunitid="13">7,49 €
+          </a>
+          <span class="note">Grundpreis 14,98€ / Liter
+          </span>
+        </div>
+      </div>
+      <div class="title">
+        <h3>
+          Peanut Butter Cup    			 	        			     
+        </h3>
+      </div>
+    </div>
+    <div class="row odd">
+      <div class="number">
+      </div>
+      <div class="variants">
+        <div>    
+          <span class="name">100ml
+          </span>
+          <span class="desc">
+          </span>
+          <a data-productid="193" data-packingunitid="12">3,00 €
+          </a>
+          <span class="note">Grundpreis 30,00€ / Liter
+          </span>
+        </div>
+        <div>    
+          <span class="name">500ml
+          </span>
+          <span class="desc">
+          </span>
+          <a data-productid="193" data-packingunitid="13">7,49 €
+          </a>
+          <span class="note">Grundpreis 14,98€ / Liter
+          </span>
+        </div>
+      </div>
+      <div class="title">
+        <h3>
+          Caramel Chew Chew    			 	        			     
+        </h3>
+      </div>
+    </div>
+    <div class="row even">
+      <div class="number">
+      </div>
+      <div class="variants">
+        <div>    
+          <span class="name">500ml
+          </span>
+          <span class="desc">
+          </span>
+          <a data-productid="194" data-packingunitid="13">7,49 €
+          </a>
+          <span class="note">Grundpreis 14,98€ / Liter
+          </span>
+        </div>
+      </div>
+      <div class="title">
+        <h3>
+          Karamel Sutra    			 	        			     
+        </h3>
+      </div>
+    </div>
+    <div class="row even">
+      <div class="number">
+      </div>
+      <div class="variants">
+        <div>    
+          <span class="name">900ml
+          </span>
+          <span class="desc">
+          </span>
+          <a data-productid="64" data-packingunitid="14">7,50 €
+          </a>
+          <span class="note">Grundpreis 8,33€ / Liter
+          </span>
+        </div>
+      </div>
+      <div class="title">
+        <h3>
+          Straciatella    			 	        			     
+        </h3>
+      </div>
+    </div>
+    <div class="row odd">
+      <div class="number">
+      </div>
+      <div class="variants">
+        <div>    
+          <span class="name">900ml
+          </span>
+          <span class="desc">
+          </span>
+          <a data-productid="65" data-packingunitid="14">7,50 €
+          </a>
+          <span class="note">Grundpreis 8,33€ / Liter
+          </span>
+        </div>
+      </div>
+      <div class="title">
+        <h3>
+          Bourbon Vanille    			 	        			     
+        </h3>
+      </div>
+    </div>
+    <div class="row even">
+      <div class="number">
+      </div>
+      <div class="variants">
+        <div>    
+          <span class="name">900ml
+          </span>
+          <span class="desc">
+          </span>
+          <a data-productid="66" data-packingunitid="14">7,50 €
+          </a>
+          <span class="note">Grundpreis 8,33€ / Liter
+          </span>
+        </div>
+      </div>
+      <div class="title">
+        <h3>
+          Maple Walnuts    			 	        			     
+        </h3>
+      </div>
+    </div>
+  </div>
+</section>

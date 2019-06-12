@@ -1,0 +1,344 @@
+<section>
+  <div class="rows">
+    <div class="row even">
+      <div class="number">101
+      </div>
+      <div class="variants">
+        <div>
+          <a data-productid="34">9,90 €
+          </a>
+        </div>
+      </div>
+      <div class="title">
+        <h3>
+          Murgh Korma    			 	        			     
+        </h3>
+        <p>Hähnchenbrustfilet mit Joghurt-Sahne-Sauce, Mandeln, Kokosnuss und exotische Gewürze
+        </p>
+      </div>
+    </div>
+    <div class="row odd">
+      <div class="number">102
+      </div>
+      <div class="variants">
+        <div>
+          <a data-productid="35">9,90 €
+          </a>
+        </div>
+      </div>
+      <div class="title">
+        <h3>
+          Murgh Vindola    			 	        			     
+        </h3>
+        <p>Hähnchenbrustfilet, Kartoffeln und eine pikante Curry-Sauce
+        </p>
+      </div>
+    </div>
+    <div class="row even">
+      <div class="number">103
+      </div>
+      <div class="variants">
+        <div>
+          <a data-productid="36">9,90 €
+          </a>
+        </div>
+      </div>
+      <div class="title">
+        <h3>
+          Palak Murgh    			 	        			     
+        </h3>
+        <p>Hähnchenbrustfilet und Spinat auf nordindische Art zubereitet
+        </p>
+      </div>
+    </div>
+    <div class="row odd">
+      <div class="number">104
+      </div>
+      <div class="variants">
+        <div>
+          <a data-productid="37">9,90 €
+          </a>
+        </div>
+      </div>
+      <div class="title">
+        <h3>
+          Butter Murgh    			 	        			     
+        </h3>
+        <p>Hähnchenbrustfilet mit einer leichten Butter-Sauce
+        </p>
+      </div>
+    </div>
+    <div class="row even">
+      <div class="number">105
+      </div>
+      <div class="variants">
+        <div>
+          <a data-productid="38">9,90 €
+          </a>
+        </div>
+      </div>
+      <div class="title">
+        <h3>
+          Murgh-Chili-Masala    			 	        			     
+        </h3>
+        <p>Hähnchenbrustfilet, Ingwer, Knoblauch, Zwiebeln, Paprika und Chilisauce
+        </p>
+      </div>
+    </div>
+    <div class="row odd">
+      <div class="number">106
+      </div>
+      <div class="variants">
+        <div>
+          <a data-productid="39">9,90 €
+          </a>
+        </div>
+      </div>
+      <div class="title">
+        <h3>
+          Mango-Murgh    			 	        			     
+        </h3>
+        <p>Hähnchenbrustfilet mit einer traditionellen Mango-Sauce
+        </p>
+      </div>
+    </div>
+    <div class="row even">
+      <div class="number">107
+      </div>
+      <div class="variants">
+        <div>
+          <a data-productid="40">9,90 €
+          </a>
+        </div>
+      </div>
+      <div class="title">
+        <h3>
+          Murgh Sabzi    			 	        			     
+        </h3>
+        <p>Hähnchenbrustfilet mit verschiedenem Gemüse und Curry-Sauce
+        </p>
+      </div>
+    </div>
+    <div class="row even">
+      <div class="number">110
+      </div>
+      <div class="variants">
+        <div>
+          <a data-productid="41">10,90 €
+          </a>
+        </div>
+      </div>
+      <div class="title">
+        <h3>
+          Gosht Karahi    			 	        			     
+        </h3>
+        <p>Lammfleisch mit Ingwer, Knoblauch und Chilisauce, scharf
+        </p>
+      </div>
+    </div>
+    <div class="row odd">
+      <div class="number">111
+      </div>
+      <div class="variants">
+        <div>
+          <a data-productid="42">10,90 €
+          </a>
+        </div>
+      </div>
+      <div class="title">
+        <h3>
+          Gosht Korma    			 	        			     
+        </h3>
+        <p>Lammfleisch mit Safran-Mandel-Sauce
+        </p>
+      </div>
+    </div>
+    <div class="row even">
+      <div class="number">112
+      </div>
+      <div class="variants">
+        <div>
+          <a data-productid="43">10,90 €
+          </a>
+        </div>
+      </div>
+      <div class="title">
+        <h3>
+          Palak Gosht    			 	        			     
+        </h3>
+        <p>Lammfleisch mit Spinat auf nordindische Art
+        </p>
+      </div>
+    </div>
+    <div class="row odd">
+      <div class="number">113
+      </div>
+      <div class="variants">
+        <div>
+          <a data-productid="44">10,90 €
+          </a>
+        </div>
+      </div>
+      <div class="title">
+        <h3>
+          Gosht Vindalo    			 	        			     
+        </h3>
+        <p>Lammfleisch mit Kartoffeln und eine pikante Sauce
+        </p>
+      </div>
+    </div>
+    <div class="row even">
+      <div class="number">114
+      </div>
+      <div class="variants">
+        <div>
+          <a data-productid="45">10,90 €
+          </a>
+        </div>
+      </div>
+      <div class="title">
+        <h3>
+          Gosht Chili-Masala    			 	        			     
+        </h3>
+        <p>Lammfleisch mit Zwiebeln, Paprika, Ingwer, Knoblauch und einer scharfen Chili-Sauce
+        </p>
+      </div>
+    </div>
+    <div class="row odd">
+      <div class="number">115
+      </div>
+      <div class="variants">
+        <div>
+          <a data-productid="46">10,90 €
+          </a>
+        </div>
+      </div>
+      <div class="title">
+        <h3>
+          Gosht Jalfrazie    			 	        			     
+        </h3>
+        <p>Lammfleisch mit verschiedenem Gemüse und Zitronensaft
+        </p>
+      </div>
+    </div>
+    <div class="row even">
+      <div class="number">120
+      </div>
+      <div class="variants">
+        <div>
+          <a data-productid="47">8,50 €
+          </a>
+        </div>
+      </div>
+      <div class="title">
+        <h3>
+          Channa Masala    			 	        			     
+        </h3>
+        <p>Kichererbsen, Tomaten, Ingwer und Knoblauch mit indischen Gewürzen, gebraten
+        </p>
+      </div>
+    </div>
+    <div class="row odd">
+      <div class="number">121
+      </div>
+      <div class="variants">
+        <div>
+          <a data-productid="48">8,50 €
+          </a>
+        </div>
+      </div>
+      <div class="title">
+        <h3>
+          Sag Paneer    			 	        			     
+        </h3>
+        <p>Spinat mit Frischkäse, Ingwer, Knoblauch auf nordindische Art gebraten
+        </p>
+      </div>
+    </div>
+    <div class="row even">
+      <div class="number">122
+      </div>
+      <div class="variants">
+        <div>
+          <a data-productid="49">8,50 €
+          </a>
+        </div>
+      </div>
+      <div class="title">
+        <h3>
+          Matter Paneer    			 	        			     
+        </h3>
+        <p>grüne Erbsen mit Frischkäse, Tomaten und einer milden Curry-Sauce
+        </p>
+      </div>
+    </div>
+    <div class="row odd">
+      <div class="number">123
+      </div>
+      <div class="variants">
+        <div>
+          <a data-productid="50">8,50 €
+          </a>
+        </div>
+      </div>
+      <div class="title">
+        <h3>
+          Mixed Vegetable    			 	        			     
+        </h3>
+        <p>mit verschiedenem Gemüse, auf nordindische Art zubereitet
+        </p>
+      </div>
+    </div>
+    <div class="row even">
+      <div class="number">130
+      </div>
+      <div class="variants">
+        <div>
+          <a data-productid="51">8,90 €
+          </a>
+        </div>
+      </div>
+      <div class="title">
+        <h3>
+          Murgh Biryani    			 	        			     
+        </h3>
+        <p>Hähnchenbrustfilet, Basmatireis mit Mandeln und Rosinen
+        </p>
+      </div>
+    </div>
+    <div class="row odd">
+      <div class="number">131
+      </div>
+      <div class="variants">
+        <div>
+          <a data-productid="52">8,90 €
+          </a>
+        </div>
+      </div>
+      <div class="title">
+        <h3>
+          Gosht Biryani    			 	        			     
+        </h3>
+        <p>Lammfleisch, Basmatireis mit Mandeln und Rosinen
+        </p>
+      </div>
+    </div>
+    <div class="row even">
+      <div class="number">132
+      </div>
+      <div class="variants">
+        <div>
+          <a data-productid="53">8,90 €
+          </a>
+        </div>
+      </div>
+      <div class="title">
+        <h3>
+          Sabzi Biryani    			 	        			     
+        </h3>
+        <p>verschiedene Gemüse, Basmatireis und Rosinen
+        </p>
+      </div>
+    </div>
+  </div>
+</section>

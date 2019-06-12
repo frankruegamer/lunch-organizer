@@ -1,32 +1,37 @@
 package de.frankruegamer.lunchorganizer.business.restaurant;
 
 import de.frankruegamer.lunchorganizer.business.address.Address;
+import de.frankruegamer.lunchorganizer.business.food.Food;
 
 import javax.persistence.*;
+import java.util.List;
 
 @Entity
 public class Restaurant {
 
-    @Id
-    @GeneratedValue(strategy = GenerationType.IDENTITY)
-    private Long id;
+	@Id
+	@GeneratedValue(strategy = GenerationType.IDENTITY)
+	private Long id;
 
-    @Column(nullable = false)
-    private String name;
+	@Column(nullable = false)
+	private String name;
 
-    @OneToOne
-    @JoinColumn
-    private Address address;
+	@OneToOne
+	@JoinColumn
+	private Address address;
 
-    protected Restaurant() {
-    }
+	@OneToMany(mappedBy = "restaurant")
+	private List<Food> foods;
 
-    public String getName() {
-        return name;
-    }
+	protected Restaurant() {
+	}
 
-    public Address getAddress() {
-        return address;
-    }
+	public String getName() {
+		return name;
+	}
+
+	public Address getAddress() {
+		return address;
+	}
 
 }

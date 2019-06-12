@@ -9,6 +9,12 @@ VALUES ('DE', '97074', 'Würzburg', 'Rottendorfer Straße', '48');
 INSERT INTO RESTAURANT(name, address_id)
 SELECT 'Bobby''s Pizza', lastval();
 
+INSERT INTO FOOD(name, price, description, restaurant_id)
+VALUES
+('Salami Pizza', 5.99, 'Eine gute Pizza', lastval()),
+('Schinken Pizza', 2.28, null, lastval())
+;
+
 INSERT INTO ADDRESS (country, postal_code, city, street, house_number)
 VALUES ('DE', '97076', 'Würzburg', 'Nürnberger Straße', '76');
 INSERT INTO RESTAURANT(name, address_id)

@@ -24,6 +24,13 @@ public class Food {
 	@ManyToOne
 	private Restaurant restaurant;
 
+	protected Food() {
+	}
+
+	public String getNumber() {
+		return number;
+	}
+
 	public String getName() {
 		return name;
 	}

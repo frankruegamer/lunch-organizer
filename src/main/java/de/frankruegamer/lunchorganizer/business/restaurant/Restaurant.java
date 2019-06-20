@@ -2,6 +2,7 @@ package de.frankruegamer.lunchorganizer.business.restaurant;
 
 import de.frankruegamer.lunchorganizer.business.address.Address;
 import de.frankruegamer.lunchorganizer.business.food.Food;
+import de.frankruegamer.lunchorganizer.business.order.RestaurantOrder;
 
 import javax.persistence.*;
 import java.util.List;
@@ -23,6 +24,9 @@ public class Restaurant {
 	@OneToMany(mappedBy = "restaurant")
 	private List<Food> foods;
 
+	@OneToMany(mappedBy = "restaurant")
+	private List<RestaurantOrder> orders;
+
 	protected Restaurant() {
 	}
 
@@ -32,6 +36,10 @@ public class Restaurant {
 
 	public Address getAddress() {
 		return address;
+	}
+
+	public List<RestaurantOrder> getOrders() {
+		return orders;
 	}
 
 }

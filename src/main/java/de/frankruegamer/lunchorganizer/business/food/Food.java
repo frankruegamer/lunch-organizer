@@ -19,6 +19,7 @@ public class Food {
 
 	private String description;
 
+	@Column(nullable = false)
 	private BigDecimal price;
 
 	@ManyToOne

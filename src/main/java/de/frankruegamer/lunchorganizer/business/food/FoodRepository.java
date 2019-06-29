@@ -11,7 +11,7 @@ public interface FoodRepository extends JpaRepository<Food, Long> {
 
 	@Query(value = "SELECT * " +
 	               "FROM food " +
-	               "WHERE (food.name ~* :regex OR description ~* :regex)" +
+	               "WHERE (food.name ~* :regex OR description ~* :regex OR number ~* :regex)" +
 	               "  AND restaurant_id = :restaurant", nativeQuery = true)
 	Page<Food> findByNameRegex(@Param("regex") String regex, @Param("restaurant") Restaurant restaurant, Pageable page);
 

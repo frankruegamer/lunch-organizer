@@ -27,8 +27,20 @@ public class PersonOrder {
 	protected PersonOrder() {
 	}
 
+	public Long getId() {
+		return id;
+	}
+
+	public Person getPerson() {
+		return person;
+	}
+
 	public BigDecimal getPrice() {
 		return personOrderPositions.stream().map(PersonOrderPosition::getPrice).reduce(BigDecimal.ZERO, BigDecimal::add);
+	}
+
+	public List<PersonOrderPosition> getPersonOrderPositions() {
+		return personOrderPositions;
 	}
 
 }

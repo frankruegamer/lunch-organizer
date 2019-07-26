@@ -40,4 +40,8 @@ public class RestaurantOrder {
 		return restaurant;
 	}
 
+	public List<PersonOrder> getPersonOrders() {
+		return personOrders;
+	}
+
 }

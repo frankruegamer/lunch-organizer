@@ -1,13 +1,11 @@
 package de.frankruegamer.lunchorganizer.business.order;
 
 import de.frankruegamer.lunchorganizer.business.food.Food;
-import org.hibernate.annotations.Check;
 
 import javax.persistence.*;
 import java.math.BigDecimal;
 
 @Entity
-@Check(constraints = "(food_id IS NULL) != (custom IS NULL)")
 public class PersonOrderPosition {
 
 	@Id
@@ -30,6 +28,18 @@ public class PersonOrderPosition {
 
 	public BigDecimal getPrice() {
 		return food.getPrice();
+	}
+
+	public Food getFood() {
+		return food;
+	}
+
+	public String getCustom() {
+		return custom;
+	}
+
+	public PersonOrder getPersonOrder() {
+		return personOrder;
 	}
 
 }

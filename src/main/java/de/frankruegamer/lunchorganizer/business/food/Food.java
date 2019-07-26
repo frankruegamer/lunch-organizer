@@ -28,6 +28,10 @@ public class Food {
 	protected Food() {
 	}
 
+	public Long getId() {
+		return id;
+	}
+
 	public String getNumber() {
 		return number;
 	}

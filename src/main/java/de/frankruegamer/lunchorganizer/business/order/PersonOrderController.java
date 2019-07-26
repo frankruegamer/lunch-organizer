@@ -28,7 +28,6 @@ public class PersonOrderController {
 
 	@GetMapping(value = "/orders/{id}/personOrders")
 	public ResponseEntity<?> getPersonOrder(@PathVariable("id") long id, @RequestParam(required = false) String name) {
-		System.out.println("name = " + name);
 		RestaurantOrder restaurantOrder = orderRepository.findById(id).orElseThrow(ResourceNotFoundException::new);
 		if (name == null) {
 			return ResponseEntity.ok(new Resources<>(restaurantOrder.getPersonOrders()));

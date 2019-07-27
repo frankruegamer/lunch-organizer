@@ -4,6 +4,7 @@ import de.frankruegamer.lunchorganizer.business.person.Person;
 
 import javax.persistence.*;
 import java.math.BigDecimal;
+import java.util.ArrayList;
 import java.util.List;
 
 @Entity
@@ -18,7 +19,7 @@ public class PersonOrder {
 	private Person person;
 
 	@OneToMany(mappedBy = "personOrder")
-	private List<PersonOrderPosition> personOrderPositions;
+	private List<PersonOrderPosition> personOrderPositions = new ArrayList<>();
 
 	@ManyToOne
 	@JoinColumn(nullable = false)
@@ -41,6 +42,10 @@ public class PersonOrder {
 
 	public List<PersonOrderPosition> getPersonOrderPositions() {
 		return personOrderPositions;
+	}
+
+	public RestaurantOrder getRestaurantOrder() {
+		return restaurantOrder;
 	}
 
 }

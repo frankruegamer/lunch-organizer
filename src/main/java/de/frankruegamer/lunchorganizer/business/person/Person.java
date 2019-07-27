@@ -16,6 +16,10 @@ public class Person {
 	protected Person() {
 	}
 
+	public Long getId() {
+		return id;
+	}
+
 	public Person(String name) {
 		this.name = name;
 	}

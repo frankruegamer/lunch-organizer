@@ -1,12 +1,8 @@
 package de.frankruegamer.lunchorganizer.business.order;
 
-import de.frankruegamer.lunchorganizer.business.food.Food;
 import org.springframework.data.rest.webmvc.RepositoryRestController;
 import org.springframework.data.rest.webmvc.ResourceNotFoundException;
-import org.springframework.hateoas.EntityLinks;
-import org.springframework.hateoas.Link;
-import org.springframework.hateoas.Resource;
-import org.springframework.hateoas.Resources;
+import org.springframework.hateoas.*;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
@@ -30,25 +26,28 @@ public class PersonOrderController {
 	public ResponseEntity<?> getPersonOrder(@PathVariable("id") long id, @RequestParam(required = false) String name) {
 		RestaurantOrder restaurantOrder = orderRepository.findById(id).orElseThrow(ResourceNotFoundException::new);
 		if (name == null) {
-			return ResponseEntity.ok(new Resources<>(restaurantOrder.getPersonOrders()));
+			return ResponseEntity.ok(new Resources<>(restaurantOrder.getPersonOrders()
+			                                                        .stream()
+			                                                        .map(this::toResource)
+			                                                        .collect(Collectors.toList())));
 		} else {
 			PersonOrder personOrder = restaurantOrder.getPersonOrders()
 			                                         .stream()
 			                                         .filter(o -> o.getPerson().getName().equals(name))
 			                                         .findFirst()
 			                                         .orElseThrow(() -> new ResourceNotFoundException("Resource for '" + name + "' not found."));
-			List<Resource<PersonOrderPosition>> resources = personOrder.getPersonOrderPositions()
-			                                                           .stream()
-			                                                           .map(this::toResource)
-			                                                           .collect(Collectors.toList());
-			return ResponseEntity.ok(new Resources<>(resources));
+			return ResponseEntity.ok(toResource(personOrder));
 		}
 	}
 
-	private Resource<PersonOrderPosition> toResource(PersonOrderPosition s) {
-		Link foodLink = entityLinks.linkToSingleResource(Food.class, s.getFood().getId());
-		Link personOrderLink = entityLinks.linkToSingleResource(PersonOrder.class, s.getPersonOrder().getId());
-		return new Resource<>(s, List.of(foodLink, personOrderLink));
+	private Resource<PersonOrder> toResource(PersonOrder personOrder) {
+		LinkBuilder rootLink = entityLinks.linkForSingleResource(PersonOrder.class, personOrder.getId());
+		Link selfLink = rootLink.withSelfRel();
+		Link personOrderLink = rootLink.withRel("personOrder");
+		Link personLink = rootLink.slash("person").withRel("person");
+		Link positionsLink = rootLink.slash("personOrderPositions").withRel("personOrderPositions");
+		Link restaurantOrderLink = rootLink.slash("restaurantOrder").withRel("restaurantOrder");
+		return new Resource<>(personOrder, List.of(selfLink, personOrderLink, personLink, positionsLink, restaurantOrderLink));
 	}
 
 }

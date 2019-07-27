@@ -26,6 +26,10 @@ public class PersonOrderPosition {
 	protected PersonOrderPosition() {
 	}
 
+	public Long getId() {
+		return id;
+	}
+
 	public BigDecimal getPrice() {
 		return food.getPrice();
 	}

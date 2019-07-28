@@ -3,6 +3,8 @@ package de.frankruegamer.lunchorganizer.business.order;
 import org.springframework.data.rest.webmvc.RepositoryRestController;
 import org.springframework.data.rest.webmvc.ResourceNotFoundException;
 import org.springframework.hateoas.*;
+import org.springframework.hateoas.core.EmbeddedWrapper;
+import org.springframework.hateoas.core.EmbeddedWrappers;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
@@ -25,17 +27,19 @@ public class PersonOrderController {
 	@GetMapping(value = "/orders/{id}/personOrders")
 	public ResponseEntity<?> getPersonOrder(@PathVariable("id") long id, @RequestParam(required = false) String name) {
 		RestaurantOrder restaurantOrder = orderRepository.findById(id).orElseThrow(ResourceNotFoundException::new);
+		List<PersonOrder> personOrders = restaurantOrder.getPersonOrders();
 		if (name == null) {
-			return ResponseEntity.ok(new Resources<>(restaurantOrder.getPersonOrders()
-			                                                        .stream()
-			                                                        .map(this::toResource)
-			                                                        .collect(Collectors.toList())));
+			List<Resource<PersonOrder>> resources = personOrders.stream()
+			                                                  .map(this::toResource)
+			                                                  .collect(Collectors.toList());
+			EmbeddedWrappers wrappers = new EmbeddedWrappers(false);
+			EmbeddedWrapper wrapper = wrappers.wrap(resources, "personOrders");
+			return ResponseEntity.ok(new Resources<>(List.of(wrapper)));
 		} else {
-			PersonOrder personOrder = restaurantOrder.getPersonOrders()
-			                                         .stream()
-			                                         .filter(o -> o.getPerson().getName().equals(name))
-			                                         .findFirst()
-			                                         .orElseThrow(() -> new ResourceNotFoundException("Resource for '" + name + "' not found."));
+			PersonOrder personOrder = personOrders.stream()
+			                                      .filter(o -> o.getPerson().getName().equals(name))
+			                                      .findFirst()
+			                                      .orElseThrow(() -> new ResourceNotFoundException("Resource for '" + name + "' not found."));
 			return ResponseEntity.ok(toResource(personOrder));
 		}
 	}

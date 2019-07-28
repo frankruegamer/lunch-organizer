@@ -8,6 +8,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 @Entity
+@Table(uniqueConstraints = @UniqueConstraint(columnNames = {"person_id", "restaurant_order_id"}))
 public class PersonOrder {
 
 	@Id
@@ -17,6 +18,9 @@ public class PersonOrder {
 	@ManyToOne
 	@JoinColumn(nullable = false)
 	private Person person;
+
+	@Column(nullable = false)
+	private boolean payed = false;
 
 	@OneToMany(mappedBy = "personOrder")
 	private List<PersonOrderPosition> personOrderPositions = new ArrayList<>();
@@ -46,6 +50,10 @@ public class PersonOrder {
 
 	public RestaurantOrder getRestaurantOrder() {
 		return restaurantOrder;
+	}
+
+	public boolean isPayed() {
+		return payed;
 	}
 
 }

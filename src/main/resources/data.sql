@@ -1,17 +1,13 @@
 -- noinspection SpellCheckingInspectionForFile
 
-INSERT INTO person(name)
-VALUES ('Person'),
-       ('Person2');
-
 WITH address AS (
     INSERT INTO address (country, postal_code, city, street, house_number)
     VALUES ('DE', '97074', 'Würzburg', 'Rottendorfer Straße', '48')
     RETURNING id
 )
 , restaurant AS (
-    INSERT INTO restaurant (name, address_id)
-        SELECT 'Bobby''s Pizza', id FROM address
+    INSERT INTO restaurant (name, telephone, address_id)
+        SELECT 'Bobby''s Pizza', '49-931-26077171', id FROM address
     RETURNING id
 )
 INSERT INTO food(number, name, description, price, restaurant_id)
@@ -162,16 +158,16 @@ WITH address AS (
         VALUES ('DE', '97076', 'Würzburg', 'Nürnberger Straße', '76')
     RETURNING id
 )
-INSERT INTO restaurant(name, address_id)
-SELECT 'Thanh Tin', id FROM address;
+INSERT INTO restaurant(name, telephone, address_id)
+SELECT 'Thanh Tin', '49-931-2999043', id FROM address;
 
 WITH address AS (
     INSERT INTO address (country, postal_code, city, street, house_number)
         VALUES ('DE', '97082', 'Würzburg', 'Weißenburgerstraße', '7')
     RETURNING id
 )
-INSERT INTO restaurant(name, address_id)
-SELECT 'Kyo Xpress', id FROM address;
+INSERT INTO restaurant(name, telephone, address_id)
+SELECT 'Kyo Xpress', '49-931-46043533', id FROM address;
 
 WITH address AS (
     INSERT INTO address (country, postal_code, city, street, house_number)
@@ -179,8 +175,8 @@ WITH address AS (
     RETURNING id
 )
 , restaurant AS (
-    INSERT INTO restaurant(name, address_id)
-        SELECT 'Dönmez Döner', id FROM address
+    INSERT INTO restaurant(name, telephone, address_id)
+        SELECT 'Dönmez Döner', '49-931-46583037', id FROM address
     RETURNING id
 )
 INSERT INTO food(number, name, description, price, restaurant_id)
@@ -254,13 +250,13 @@ WITH address AS (
         VALUES ('DE', '97076', 'Würzburg', 'Louis-Pasteur-Straße', '5')
     RETURNING id
 )
-INSERT INTO restaurant(name, address_id)
-SELECT 'Pavillon', id FROM address;
+INSERT INTO restaurant(name, telephone, address_id)
+SELECT 'Pavillon', '49-931-2700160', id FROM address;
 
 WITH address AS (
     INSERT INTO address (country, postal_code, city, street, house_number)
         VALUES ('DE', '97076', 'Würzburg', 'Nürnberger Straße', '124')
     RETURNING id
 )
-INSERT INTO restaurant(name, address_id)
-SELECT 'Bacon Bomber', id FROM address;
+INSERT INTO restaurant(name, telephone, address_id)
+SELECT 'Bacon Bomber', '49-173-5365975', id FROM address;

@@ -18,8 +18,11 @@ public class Restaurant {
 	private String name;
 
 	@OneToOne
-	@JoinColumn
+	@JoinColumn(nullable = false)
 	private Address address;
+
+	@Column(nullable = false, length = 25)
+	private String telephone;
 
 	@OneToMany(mappedBy = "restaurant")
 	private List<Food> foods;
@@ -36,6 +39,10 @@ public class Restaurant {
 
 	public Address getAddress() {
 		return address;
+	}
+
+	public String getTelephone() {
+		return telephone;
 	}
 
 	public List<RestaurantOrder> getOrders() {

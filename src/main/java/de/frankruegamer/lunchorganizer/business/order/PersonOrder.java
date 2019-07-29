@@ -20,7 +20,7 @@ public class PersonOrder {
 	private Person person;
 
 	@Column(nullable = false)
-	private boolean payed = false;
+	private boolean paid = false;
 
 	@OneToMany(mappedBy = "personOrder")
 	private List<PersonOrderPosition> personOrderPositions = new ArrayList<>();
@@ -52,8 +52,8 @@ public class PersonOrder {
 		return restaurantOrder;
 	}
 
-	public boolean isPayed() {
-		return payed;
+	public boolean isPaid() {
+		return paid;
 	}
 
 }

@@ -13,7 +13,7 @@ public class PersonOrderPosition {
 	private Long id;
 
 	@ManyToOne
-	@JoinColumn(nullable = true)
+	@JoinColumn(nullable = false)
 	private Food food;
 
 	@Column(nullable = true)

@@ -2,8 +2,8 @@ package de.frankruegamer.lunchorganizer.business.food;
 
 import de.frankruegamer.lunchorganizer.business.restaurant.Restaurant;
 
-import javax.persistence.*;
 import java.math.BigDecimal;
+import javax.persistence.*;
 
 @Entity
 public class Food {
@@ -26,6 +26,14 @@ public class Food {
 	private Restaurant restaurant;
 
 	protected Food() {
+	}
+
+	public Food(String number, String name, String description, BigDecimal price, Restaurant restaurant) {
+		this.number = number;
+		this.name = name;
+		this.description = description;
+		this.price = price;
+		this.restaurant = restaurant;
 	}
 
 	public Long getId() {

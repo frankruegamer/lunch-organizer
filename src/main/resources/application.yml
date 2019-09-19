@@ -15,5 +15,6 @@ spring:
   datasource:
     url: jdbc:postgresql://localhost:5432/lunch
     username: postgres
+    password: password
     driver-class-name: org.postgresql.Driver
     initialization-mode: always
